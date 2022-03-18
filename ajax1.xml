@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>Exemple AJAX</title>
+
+<script language="JavaScript">
+	/* Cette fonction va chercher un document XML sur le serveur et appelle
+	la fonction afficherTitre lorsque c'est fait! */
+	
+	function chargeDocument(URI) {
+		xmlhttp = new XMLHttpRequest();
+		xmlhttp.open("GET", URI,true);
+		xmlhttp.onreadystatechange=function() {
+			if (xmlhttp.readyState==4) {
+				afficheTitre(xmlhttp.responseXML);
+			}
+		}
+		xmlhttp.send(null);
+	}
+
+	// Cette fonction est appelée lorsque le document XML est chargé
+	
+	function afficheTitre(doc) {
+		// on récupère le contenu de l'unique élément titre
+		titreele = doc.getElementsByTagName("title").item(0);
+		if(titreele.firstChild != null)
+			titre=titreele.nodeValue;
+		else
+			titre = "";
+		// on ajoute un élément au document courant
+		// "document" est le document XHTML, à ne pas confondre avec "doc"
+		elementp = document.createElement("p");
+		elementp.appendChild(document.createTextNode(titre));
+		body = document.getElementsByTagName("body").item(0);
+		body.appendChild(elementp);
+	}
+</script>
+
+</head>
+<body>
+	<p>Vous pouvez cliquer sur les liens suivants plus d'une fois.
+	À chaque fois, votre navigateur charge un document XHTML et en 
+	affiche le titre.</p>
+	<ul>
+	<li><a href="javascript:chargeDocument('domtutoriel.xhtml');">
+	Récupère et affiche 
+	le titre du document domtutoriel.xhtml.</a></li>
+	<li><a href="javascript:chargeDocument('travail5.xhtml');">
+	Récupère et affiche 
+	le titre du document travail5.xhtml.</a></li>
+	</ul>
+</body>
+</html>

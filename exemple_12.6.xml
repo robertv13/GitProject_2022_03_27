@@ -1,0 +1,20 @@
+<html>
+<header>
+<script id="telephone" type="application/xml">
+<annuaire>
+   <individu><nom>Jean</nom></individu>
+   <individu><nom>Pierre</nom></individu>
+</annuaire>
+</script>
+
+<script>
+// charge le document XML
+function chargeXML() {
+	var monxml = document.getElementById("telephone").textContent;
+	return new DOMParser().parseFromString(monxml, "application/xml");
+}
+</script>
+</header>
+<body>
+</body>
+</html>
