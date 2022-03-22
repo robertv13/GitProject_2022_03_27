@@ -1,38 +1,58 @@
-<?xml version="1.0"  ?>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!--
+INF 6450 -  Travail noté 4 - Robert M. Vigneault,  fait avec JDK java 14.0.2
+ -->
+
+<!DOCTYPE html>
+
+<html lang="fr">
 <head>
+   <meta charset="UTF-8">
+   <style>
+   table,th,td {
+   border : 1px solid blue;
+   border-collapse: collapse;
+   }
+   th,td {
+   padding: 5px;
+   }
+   </style>
+</head>
 
-<title>Exemple AJAX</title>
+<body>
 
-<script language="JavaScript">
-function afficheTitres(doc) {
-     titres = doc.getElementsByTagName("title");
-     elementol = document.createElement("ol");
-     var longueur = titres.length;
-     for (k = 0; k <&lt> longueur ; ++k) {
-       elementli = document.createElement("li");
-       elementli.appendChild(document.createTextNode(titres[k].firstChild.nodeValue));
-       elementol.appendChild(elementli);
-     }
-     body = document.getElementsByTagName("body").item(0);
-     body.appendChild(elementol);
+<h1>Travail noté # 4 - Question # 4 - Les articles du Devoir</h1>
+
+<button type="button" onclick="loadDoc()">AFficher les articles du Devoir</button>
+<br><br>
+<table id="demo" style="width:85%"></table>
+
+<script>
+function loadDoc() {
+   var xhttp = new XMLHttpRequest();
+   xhttp.onreadystatechange = function() {
+   if (this.readyState == 4 && this.status == 200) myFunction(this);
+   };
+   xhttp.open("GET", "ledevoir.xml", true);
+   xhttp.send();
 }
 
-function chargeDocument(f) {
-        var fileReader = new FileReader();
-        fileReader.onload = function(evt) {
-           var doc = new DOMParser().parseFromString(this.result, 'application/xml');
-           afficheTitres(doc);
-        }
-        fileReader.readAsText(f);
-    }
-
+function myFunction(xml) {
+   var noArticle = 0  
+   var xmlDoc = xml.responseXML;
+   var table="<tr bgcolor=" + "" + "#aac5f0" + "><th>No. Art.</th><th>Titre</th><th>Description</th></tr>";
+   var x = xmlDoc.getElementsByTagName("item");
+   for (i = 0; i < x.length; i++) { 
+      noArticle += 1
+      table += "<tr><td style=" + "" + "text-align:center" + "" +  ">" + noArticle + 
+               "</td><td>" +
+               x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +
+               "</td><td>" +
+               x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue +
+               "</td></tr>";
+   }
+   document.getElementById("demo").innerHTML = table;
+   }
 </script>
-</head>
-<body>
-  <p>Récupére et affiche
-  les nouvelles du devoir: </p>
-<input type="file" onchange="readfile(this.files)" ></input>
 
 </body>
 </html>

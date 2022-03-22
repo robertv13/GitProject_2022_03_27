@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet type="text/xsl" href="?????.xsl" ?>
-
 <rss version="2.0">
 <channel>
 <title>Fil de presse - Le Devoir</title>
@@ -14,707 +13,782 @@
 <title>Fil de presse - Le Devoir</title>
 <link>https://www.ledevoir.com</link>
 </image>
-<description/>
+<description />
 <category>Fil de presse</category>
 <item>
-<surtitle/>
-<title>Que nous apprennent les recherches Google les plus populaires en Ukraine ?</title>
-<pubDate>Fri, 18 Mar 2022 16:05:59 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/europe/688122/que-nous-apprennent-les-recherches-google-les-plus-populaires-en-ukraine</link>
-<guid>https://www.ledevoir.com/monde/europe/688122/que-nous-apprennent-les-recherches-google-les-plus-populaires-en-ukraine</guid>
+<surtitle />
+<title
+      >L’Europe a levé ses mesures anti-COVID trop «brutalement», déplore l’OMS</title>
+<pubDate>Tue, 22 Mar 2022 15:39:37 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/europe/689607/pandemie-l-europe-a-leve-ses-mesures-anti-covid-trop-brutalement-deplore-l-oms</link>
+<guid
+      >https://www.ledevoir.com/monde/europe/689607/pandemie-l-europe-a-leve-ses-mesures-anti-covid-trop-brutalement-deplore-l-oms</guid>
 <category>Europe</category>
-<description>Les tendances de recherche Google sont révélatrices des préoccupations des Ukrainiens.</description>
-<author>webmestre@ledevoir.com (Sandrine Côté)</author>
-</item>
-<item>
-<surtitle/>
-<title>La Dre Tam invite au port du masque quand cela deviendra un choix personnel</title>
-<pubDate>Fri, 18 Mar 2022 15:49:47 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/sante/688140/la-dre-tam-invite-au-port-du-masque-quand-cela-deviendra-un-choix-personnel</link>
-<guid>https://www.ledevoir.com/societe/sante/688140/la-dre-tam-invite-au-port-du-masque-quand-cela-deviendra-un-choix-personnel</guid>
-<category>Santé</category>
-<description>Une remontée des cas de COVID-19 est possible ce printemps au Canada, souligne-t-elle, mais pas à des niveaux déjà vus.</description>
-<author>webmestre@ledevoir.com (Émilie Bergeron)</author>
-</item>
-<item>
-<surtitle/>
-<title>Crise ukrainienne, inflation et COVID-19: le Défi de l’info du 18 mars</title>
-<pubDate>Fri, 18 Mar 2022 15:49:24 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/688011/crise-ukrainienne-inflation-et-covid-19-le-defi-de-l-info-du-18-mars</link>
-<guid>https://www.ledevoir.com/societe/688011/crise-ukrainienne-inflation-et-covid-19-le-defi-de-l-info-du-18-mars</guid>
-<category>Société</category>
-<description>Venez tester vos connaissances de l’actualité en 10 questions.</description>
-<author>webmestre@ledevoir.com (Sarah Rahmouni)</author>
-</item>
-<item>
-<surtitle/>
-<title>Jeux vidéo : quatre studios montréalais à la conquête du monde</title>
-<pubDate>Fri, 18 Mar 2022 15:21:47 -0400</pubDate>
-<link>https://www.ledevoir.com/bis/687984/jeux-video-quatre-studios-montrealais-a-la-conquete-du-monde</link>
-<guid>https://www.ledevoir.com/bis/687984/jeux-video-quatre-studios-montrealais-a-la-conquete-du-monde</guid>
-<category/>
-<description>Plaque tournante du jeu vidéo, la ville de Montréal est l’un des plus grands centres de production...</description>
-<author/>
-</item>
-<item>
-<surtitle/>
-<title>Toujours aucune évaluation environnementale prévue pour le projet Ray-Mont Logistiques</title>
-<pubDate>Fri, 18 Mar 2022 14:38:04 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/environnement/688113/toujours-aucune-evaluation-environnementale-prevue-pour-le-projet-ray-mont-logistiques</link>
-<guid>https://www.ledevoir.com/societe/environnement/688113/toujours-aucune-evaluation-environnementale-prevue-pour-le-projet-ray-mont-logistiques</guid>
-<category>Environnement</category>
-<description>Le promoteur a repris les travaux de son projet industriel situé aux limites d’un quartier résidentiel à Montréal.</description>
-<author>ashields@ledevoir.com (Alexandre Shields)</author>
-</item>
-<item>
-<surtitle/>
-<title>Le prolongement de la ligne bleue encore repoussé, les coûts passent à 6,4 milliards de dollars</title>
-<pubDate>Fri, 18 Mar 2022 14:19:52 -0400</pubDate>
-<link>https://www.ledevoir.com/politique/688074/le-prolongement-de-la-ligne-bleue-encore-repousse-les-couts-passent-a-6-4-milliards-de-dollars</link>
-<guid>https://www.ledevoir.com/politique/688074/le-prolongement-de-la-ligne-bleue-encore-repousse-les-couts-passent-a-6-4-milliards-de-dollars</guid>
-<category>Politique</category>
-<description>L’entrée en service du prolongement de la ligne bleue du métro est de nouveau reportée, au plus tard, en 2029.</description>
-<author>fcarabin@ledevoir.com (François Carabin)</author>
-</item>
-<item>
-<surtitle/>
-<title>Entrevue | Quelles sont les répercussions de la guerre en Ukraine sur notre santé mentale?</title>
-<pubDate>Fri, 18 Mar 2022 14:14:57 -0400</pubDate>
-<link>https://www.ledevoir.com/videos/687993/en-direct-quelles-sont-les-repercussions-de-la-guerre-en-ukraine-sur-notre-sante-mentale</link>
-<guid>https://www.ledevoir.com/videos/687993/en-direct-quelles-sont-les-repercussions-de-la-guerre-en-ukraine-sur-notre-sante-mentale</guid>
-<category>Vidéos</category>
-<description>La Dre Christine Grou, présidente de l’Ordre des psychologues, répond à nos questions.</description>
-<author>medusablon@ledevoir.com (Marie-Ève DuSablon)</author>
-</item>
-<item>
-<surtitle>​Spectacle</surtitle>
-<title>«À mains nues», sortir du scaphandre</title>
-<pubDate>Fri, 18 Mar 2022 13:46:42 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/688071/spectacle-a-mains-nues-sortir-du-scaphandre</link>
-<guid>https://www.ledevoir.com/culture/musique/688071/spectacle-a-mains-nues-sortir-du-scaphandre</guid>
-<category>Musique</category>
-<description>Émile Proulx-Cloutier touche un public à la fois inquiet et désirant. Entrevue et compte-rendu.</description>
-<author>redaction@ledevoir.com (Sylvain Cormier)</author>
-</item>
-<item>
-<surtitle/>
-<title>Chine et États-Unis ont la responsabilité d’aider à la paix mondiale, dit Xi à Biden</title>
-<pubDate>Fri, 18 Mar 2022 12:44:55 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/688023/chine-et-usa-ont-la-responsabilite-d-aider-a-la-paix-mondiale-dit-xi-jinping-a-joe-biden</link>
-<guid>https://www.ledevoir.com/monde/688023/chine-et-usa-ont-la-responsabilite-d-aider-a-la-paix-mondiale-dit-xi-jinping-a-joe-biden</guid>
-<category>Monde</category>
-<description>Les présidents ont eu un entretien consacré à la guerre en Ukraine.</description>
+<description
+      >Plusieurs pays se retrouvent confrontés à une nette remontée des cas.</description>
 <author>webmestre@ledevoir.com (Agence France-Presse)</author>
 </item>
 <item>
-<surtitle/>
-<title>Réduire les taxes sur l’essence est une «mauvaise idée», assure Eric Girard</title>
-<pubDate>Fri, 18 Mar 2022 12:14:19 -0400</pubDate>
-<link>https://www.ledevoir.com/politique/quebec/688053/reduire-les-taxes-sur-l-essence-est-une-mauvaise-idee-assure-eric-girard</link>
-<guid>https://www.ledevoir.com/politique/quebec/688053/reduire-les-taxes-sur-l-essence-est-une-mauvaise-idee-assure-eric-girard</guid>
-<category>Québec</category>
-<description>Cela ne baisserait peut-être pas les prix à la pompe et la hausse des prix aide à réduire les émissions de GES, dit-il.</description>
-<author>webmestre@ledevoir.com (Patrice Bergeron)</author>
+<surtitle>​Russie</surtitle>
+<title
+      >Alexeï Navalny condamné à neuf ans dans une prison encore plus dure</title>
+<pubDate>Tue, 22 Mar 2022 15:34:31 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/asie/689574/russie-alexei-navalny-condamne-a-neuf-ans-dans-une-prison-encore-plus-dure</link>
+<guid
+      >https://www.ledevoir.com/monde/asie/689574/russie-alexei-navalny-condamne-a-neuf-ans-dans-une-prison-encore-plus-dure</guid>
+<category>Asie</category>
+<description
+      >Déjà incarcéré pour « fraude », l’opposant russe était accusé d’« escroquerie » et d’« outrage à un magistrat ».</description>
+<author>webmestre@ledevoir.com (Agence France-Presse)</author>
 </item>
 <item>
-<surtitle/>
-<title>Québec rapporte 13 nouveaux décès liés à la COVID-19</title>
-<pubDate>Fri, 18 Mar 2022 11:24:31 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/687987/bilan-covid-19-18-mars-2022</link>
-<guid>https://www.ledevoir.com/societe/687987/bilan-covid-19-18-mars-2022</guid>
-<category>Société</category>
-<description>Le nombre d’hospitalisations est de 1021, en baisse de 13 par rapport au bilan précédent.</description>
-<author>webmestre@ledevoir.com (La Presse canadienne)</author>
-</item>
-<item>
-<surtitle/>
-<title>Bombardement près de l’aéroport de Lviv en Ukraine</title>
-<pubDate>Fri, 18 Mar 2022 10:42:58 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/687945/bombardement-pres-de-l-aeroport-de-lviv-en-ukraine</link>
-<guid>https://www.ledevoir.com/monde/687945/bombardement-pres-de-l-aeroport-de-lviv-en-ukraine</guid>
-<category>Monde</category>
-<description>Au jour 23 de l’invasion russe, le président chinois a dit à Joe Biden que la guerre n’était dans l’intérêt de personne.</description>
-<author>webmestre@ledevoir.com (Joe Stenson)</author>
-</item>
-<item>
-<surtitle/>
-<title>Des diplomates canadiens ridiculisent sur Twitter une lettre officielle russe</title>
-<pubDate>Fri, 18 Mar 2022 09:17:53 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/687978/des-diplomates-canadiens-ridiculisent-sur-twitter-une-lettre-officielle-russe</link>
-<guid>https://www.ledevoir.com/monde/687978/des-diplomates-canadiens-ridiculisent-sur-twitter-une-lettre-officielle-russe</guid>
-<category>Monde</category>
-<description>Des phrases ont été modifiées pour appeler la Russie à reconnaître « la souffrance » qu’elle fait subir aux Ukrainiens.</description>
-<author>zgoudreault@ledevoir.com (Zacharie Goudreault)</author>
-</item>
-<item>
-<surtitle/>
-<title>Blogue en direct | Les dernières nouvelles de l'invasion de l'Ukraine</title>
-<pubDate>Fri, 18 Mar 2022 08:13:41 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/europe/678927/blogue-en-direct-dernieres-nouvelles-conflit-ukraine-russie</link>
-<guid>https://www.ledevoir.com/monde/europe/678927/blogue-en-direct-dernieres-nouvelles-conflit-ukraine-russie</guid>
+<surtitle />
+<title>L’élite russe fidèle à Poutine malgré le tollé à l’international</title>
+<pubDate>Tue, 22 Mar 2022 15:33:43 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/europe/689655/l-elite-russe-fidele-a-poutine-malgre-le-tolle-a-l-international</link>
+<guid
+      >https://www.ledevoir.com/monde/europe/689655/l-elite-russe-fidele-a-poutine-malgre-le-tolle-a-l-international</guid>
 <category>Europe</category>
-<description>Suivez l’évolution de la situation de l’opération militaire de la Russie.</description>
+<description
+      >Aucune contestation notable des dires du président a été observée parmi ses principaux cercles d’influence.</description>
+<author>webmestre@ledevoir.com (Stuart Williams)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Pas de survivant ni de boîte noire trouvée après l’écrasement du vol de China Eastern</title>
+<pubDate>Tue, 22 Mar 2022 15:30:51 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/asie/689649/pas-de-survivant-ni-de-boite-noire-trouvee-apres-l-ecrasement-du-vol-de-china-eastern</link>
+<guid
+      >https://www.ledevoir.com/monde/asie/689649/pas-de-survivant-ni-de-boite-noire-trouvee-apres-l-ecrasement-du-vol-de-china-eastern</guid>
+<category>Asie</category>
+<description
+      >Les autorités sont toujours en quête d’un portrait plus clair de la chute du Boeing-737 avec 132 personnes à bord.</description>
+<author>webmestre@ledevoir.com (Matthew Walsh)</author>
+</item>
+<item>
+<surtitle>Guerre en Ukraine</surtitle>
+<title
+      >Enquête contre un journaliste russe pour «fausse information» sur l’armée</title>
+<pubDate>Tue, 22 Mar 2022 15:24:57 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/689640/guerre-en-ukraine-enquete-contre-un-journaliste-russe-pour-fausse-information-sur-l-armee</link>
+<guid
+      >https://www.ledevoir.com/monde/689640/guerre-en-ukraine-enquete-contre-un-journaliste-russe-pour-fausse-information-sur-l-armee</guid>
+<category>Monde</category>
+<description
+      >Alexandre Nevzorov, célèbre journaliste, est le premier de sa trempe à faire les frais de la loi adoptée récemment.</description>
+<author>webmestre@ledevoir.com (Agence France-Presse)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Appels au calme après la mort en prison de l’indépendantiste corse Yvan Colonna</title>
+<pubDate>Tue, 22 Mar 2022 15:24:48 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/europe/689634/france-appels-au-calme-apres-la-mort-en-prison-de-l-independantiste-corse-yvan-colonna</link>
+<guid
+      >https://www.ledevoir.com/monde/europe/689634/france-appels-au-calme-apres-la-mort-en-prison-de-l-independantiste-corse-yvan-colonna</guid>
+<category>Europe</category>
+<description
+      >Il purgeait une peine à perpétuité pour l’assassinat en 1998 d’un préfet français, un crime qu’il a toujours nié.</description>
+<author>webmestre@ledevoir.com (Maureen Cofflard)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Des milliers de manifestants à Montréal pour réclamer la gratuité scolaire</title>
+<pubDate>Tue, 22 Mar 2022 14:59:50 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/689658/des-milliers-de-manifestants-pour-l-education-dix-ans-apres-le-printemps-erable</link>
+<guid
+      >https://www.ledevoir.com/societe/689658/des-milliers-de-manifestants-pour-l-education-dix-ans-apres-le-printemps-erable</guid>
+<category>Société</category>
+<description
+      >Plus de 80 000 étudiants ont fait la grève, mardi, dans l’espoir de relancer la ferveur du printemps de 2012.</description>
+<author>mfortier@ledevoir.com (Marco Fortier)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Les cas de COVID-19 explosent en Gaspésie et aux Îles de la Madeleine</title>
+<pubDate>Tue, 22 Mar 2022 14:38:06 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/sante/689646/les-cas-de-covid-19-explosent-en-gaspesie-et-aux-iles-de-la-madeleine</link>
+<guid
+      >https://www.ledevoir.com/societe/sante/689646/les-cas-de-covid-19-explosent-en-gaspesie-et-aux-iles-de-la-madeleine</guid>
+<category>Santé</category>
+<description
+      >Le directeur régional de santé publique, le Dr Yv Bonnier-Viger, soupçonne le variant BA2 d’alimenter la transmission.</description>
+<author>mecousineau@ledevoir.com (Marie-Eve Cousineau)</author>
+</item>
+<item>
+<surtitle />
+<title>Trudeau s’entend avec le NPD pour gouverner jusqu’en 2025</title>
+<pubDate>Tue, 22 Mar 2022 14:28:28 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/politique/canada/689535/justin-trudeau-confirme-l-entente-avec-le-npd-pour-gouverner-jusqu-en-2025</link>
+<guid
+      >https://www.ledevoir.com/politique/canada/689535/justin-trudeau-confirme-l-entente-avec-le-npd-pour-gouverner-jusqu-en-2025</guid>
+<category>Canada</category>
+<description
+      >Cet accord impliquerait un régime d’assurance dentaire canadien et un régime universel d’assurance médicament.</description>
+<author>bproulx@ledevoir.com (Boris Proulx)</author>
+</item>
+<item>
+<surtitle>Coronavirus</surtitle>
+<title
+      >Les enfants « probablement » plus vulnérables à une réinfection à la COVID-19</title>
+<pubDate>Tue, 22 Mar 2022 13:26:13 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/sante/689526/les-enfants-probablement-plus-vulnerables-a-une-reinfection-a-la-covid-19-selon-une-etude</link>
+<guid
+      >https://www.ledevoir.com/societe/sante/689526/les-enfants-probablement-plus-vulnerables-a-une-reinfection-a-la-covid-19-selon-une-etude</guid>
+<category>Santé</category>
+<description
+      >Les jeunes produisent presque deux fois moins d’anticorps que les adultes après avoir contracté le virus, dit une étude.</description>
+<author>jlbordeleau@ledevoir.com (Jean-Louis Bordeleau)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Deux bombes « superpuissantes » frappent Marioupol, Kiev sous couvre-feu</title>
+<pubDate>Tue, 22 Mar 2022 13:06:09 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/689466/nouvel-effort-pour-sortir-les-civils-de-marioupol-devastee-kiev-sous-couvre-feu</link>
+<guid
+      >https://www.ledevoir.com/monde/689466/nouvel-effort-pour-sortir-les-civils-de-marioupol-devastee-kiev-sous-couvre-feu</guid>
+<category>Monde</category>
+<description
+      >Le président Zelensky s’est pour la première fois dit prêt à discuter d’un compromis avec Poutine.</description>
+<author>webmestre@ledevoir.com (Hervé Bar)</author>
+</item>
+<item>
+<surtitle />
+<title>La quatrième dose contre la COVID-19 est-elle efficace ?</title>
+<pubDate>Tue, 22 Mar 2022 12:38:04 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/sante/689490/la-quatrieme-dose-est-elle-efficace</link>
+<guid
+      >https://www.ledevoir.com/societe/sante/689490/la-quatrieme-dose-est-elle-efficace</guid>
+<category>Santé</category>
+<description
+      >Québec emboîtera sous peu le pas à plusieurs pays en autorisant l’injection d’une quatrième dose contre la COVID-19.</description>
+<author>jlbordeleau@ledevoir.com (Jean-Louis Bordeleau)</author>
+</item>
+<item>
+<surtitle />
+<title>L’image de Donald Trump écornée par la guerre en Ukraine</title>
+<pubDate>Tue, 22 Mar 2022 12:23:49 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/etats-unis/689283/etats-unis-l-image-de-donald-trump-ecornee-par-la-guerre-en-ukraine</link>
+<guid
+      >https://www.ledevoir.com/monde/etats-unis/689283/etats-unis-l-image-de-donald-trump-ecornee-par-la-guerre-en-ukraine</guid>
+<category>États-Unis</category>
+<description
+      >Le populiste est isolé dans son parti, rattrapé par ses éloges de Poutine et son mépris vis-à-vis de Zelensky.</description>
+<author>fdeglise@ledevoir.com (Fabien Deglise)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Blogue en direct | Les dernières nouvelles de l'invasion de l'Ukraine</title>
+<pubDate>Tue, 22 Mar 2022 12:19:14 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/europe/678927/blogue-en-direct-dernieres-nouvelles-conflit-ukraine-russie</link>
+<guid
+      >https://www.ledevoir.com/monde/europe/678927/blogue-en-direct-dernieres-nouvelles-conflit-ukraine-russie</guid>
+<category>Europe</category>
+<description
+      >Suivez l’évolution de la situation de l’opération militaire de la Russie.</description>
 <author>redaction@ledevoir.com (Le Devoir)</author>
 </item>
 <item>
-<surtitle/>
-<title>Arcade Fire signale son retour avec «WE»</title>
-<pubDate>Fri, 18 Mar 2022 07:26:01 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/687567/musique-arcade-fire-signale-son-retour-avec-we</link>
-<guid>https://www.ledevoir.com/culture/musique/687567/musique-arcade-fire-signale-son-retour-avec-we</guid>
-<category>Musique</category>
-<description>Le 6e album de la formation montréalaise sera lancé le 6 mai prochain.</description>
-<author>philrenaud@hotmail.com (Philippe Renaud)</author>
+<surtitle />
+<title
+      >Nouvelle hausse des hospitalisations liées à la COVID-19 au Québec</title>
+<pubDate>Tue, 22 Mar 2022 11:22:19 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/sante/689541/bilan-covid-19-quebec-22-mars-2022</link>
+<guid
+      >https://www.ledevoir.com/societe/sante/689541/bilan-covid-19-quebec-22-mars-2022</guid>
+<category>Santé</category>
+<description
+      >On en recense 41 de plus, pour un total de 1043. Le bilan des victimes s'alourdit de 7 décès.</description>
+<author>webmestre@ledevoir.com (La Presse canadienne)</author>
 </item>
 <item>
-<surtitle/>
-<title>Une épopée Viking au Québec?</title>
-<pubDate>Fri, 18 Mar 2022 06:41:17 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/687798/sur-la-piste-des-archives-une-epopee-viking-au-quebec</link>
-<guid>https://www.ledevoir.com/societe/687798/sur-la-piste-des-archives-une-epopee-viking-au-quebec</guid>
-<category>Société</category>
-<description>Selon plusieurs hypothèses, ces navigateurs auraient pu remonter le fleuve Saint-Laurent bien au-delà de son estuaire.</description>
-<author>jfn@ledevoir.com (Jean-François Nadeau)</author>
+<surtitle />
+<title>Les Québécois de plus en plus méfiants envers les médias</title>
+<pubDate>Tue, 22 Mar 2022 10:14:21 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/culture/medias/689217/les-quebecois-de-plus-en-plus-mefiants-envers-les-medias</link>
+<guid
+      >https://www.ledevoir.com/culture/medias/689217/les-quebecois-de-plus-en-plus-mefiants-envers-les-medias</guid>
+<category>Médias</category>
+<description
+      >Une personne sur deux croit que les journalistes cherchent délibérément à tromper, selon un sondage du cabinet Edelman.</description>
+<author>acaillou@ledevoir.com (Annabelle Caillou)</author>
 </item>
 <item>
-<surtitle/>
-<title>Soigner l’anxiété à petites doses de LSD</title>
-<pubDate>Fri, 18 Mar 2022 03:07:37 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/science/687885/etude-soigner-l-anxiete-a-petites-doses-de-lsd</link>
-<guid>https://www.ledevoir.com/societe/science/687885/etude-soigner-l-anxiete-a-petites-doses-de-lsd</guid>
-<category>Science</category>
-<description>Une étude révèle que la substance augmente la libération de sérotonine tout comme le font certains antidépresseurs.</description>
-<author>pgravel@ledevoir.com (Pauline Gravel)</author>
-</item>
-<item>
-<surtitle>​Chronique</surtitle>
-<title>Le «monde d’après»?</title>
-<pubDate>Fri, 18 Mar 2022 03:07:31 -0400</pubDate>
-<link>https://www.ledevoir.com/opinion/chroniques/687870/chronique-le-monde-d-apres</link>
-<guid>https://www.ledevoir.com/opinion/chroniques/687870/chronique-le-monde-d-apres</guid>
-<category>Chroniques</category>
-<description>On ne combat pas Poutine en censurant Dostoïevski.</description>
-<author>crioux@ledevoir.com (Christian Rioux)</author>
-</item>
-<item>
-<surtitle/>
-<title>L’économie russe pourrait tenir encore longtemps, mais à quel prix?</title>
-<pubDate>Fri, 18 Mar 2022 03:07:22 -0400</pubDate>
-<link>https://www.ledevoir.com/economie/687864/analyse-l-economie-russe-pourrait-tenir-encore-longtemps-mais-a-quel-prix</link>
-<guid>https://www.ledevoir.com/economie/687864/analyse-l-economie-russe-pourrait-tenir-encore-longtemps-mais-a-quel-prix</guid>
-<category>Économie</category>
-<description>La guerre lancée par Poutine entraînera l’appauvrissement de sa population et un accès réduit aux technologies.</description>
-<author>edesrosiers@ledevoir.com (Éric Desrosiers)</author>
-</item>
-<item>
-<surtitle/>
-<title>Mobilisation à L’Île-des-Soeurs pour aider une enseignante d’origine ukrainienne</title>
-<pubDate>Fri, 18 Mar 2022 03:07:14 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/687858/mobilisation-a-l-ile-des-soeurs-pour-aider-une-enseignante-d-origine-ukrainienne</link>
-<guid>https://www.ledevoir.com/societe/687858/mobilisation-a-l-ile-des-soeurs-pour-aider-une-enseignante-d-origine-ukrainienne</guid>
-<category>Société</category>
-<description>À Montréal, une Ukrainienne répond à l’appel à l’aide de son frère.</description>
-<author>lmgervais@ledevoir.com (Lisa-Marie Gervais)</author>
-</item>
-<item>
-<surtitle/>
-<title>L’attrait des abris nucléaires explose à nouveau</title>
-<pubDate>Fri, 18 Mar 2022 03:07:07 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/687855/apocalypse-inc-l-attrait-des-abris-nucleaires-explose-a-nouveau</link>
-<guid>https://www.ledevoir.com/societe/687855/apocalypse-inc-l-attrait-des-abris-nucleaires-explose-a-nouveau</guid>
-<category>Société</category>
-<description>La guerre froide reprend, alors l’attrait des abris nucléaires explose à nouveau.</description>
-<author>sbaillargeon@ledevoir.com (Stéphane Baillargeon)</author>
-</item>
-<item>
-<surtitle/>
-<title>Que retenir du 22e jour de guerre en Ukraine?</title>
-<pubDate>Fri, 18 Mar 2022 03:06:59 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/europe/687852/guerre-en-ukraine-que-retenir-du-22e-jour-de-guerre-en-ukraine</link>
-<guid>https://www.ledevoir.com/monde/europe/687852/guerre-en-ukraine-que-retenir-du-22e-jour-de-guerre-en-ukraine</guid>
-<category>Europe</category>
-<description>Des civils piégés dans un théâtre effondré à Marioupol, des «crimes de guerre» dénoncés par l’Occident.</description>
-<author>zgoudreault@ledevoir.com (Zacharie Goudreault)</author>
-</item>
-<item>
-<surtitle/>
-<title>«Zo Reken», ou le fléau de la coopération internationale</title>
-<pubDate>Fri, 18 Mar 2022 03:06:51 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/cinema/687828/documentaire-zo-reken-ou-le-fleau-de-la-cooperation-internationale</link>
-<guid>https://www.ledevoir.com/culture/cinema/687828/documentaire-zo-reken-ou-le-fleau-de-la-cooperation-internationale</guid>
-<category>Cinéma</category>
-<description>Emanuel Licha a détourné un véhicule généralement utilisé par les ONG pour donner la parole aux Haïtiens.</description>
-<author>camontpetit@ledevoir.com (Caroline Montpetit)</author>
-</item>
-<item>
-<surtitle>​Critique humour</surtitle>
-<title>Une thérapie de groupe avec «Philou»</title>
-<pubDate>Fri, 18 Mar 2022 03:06:42 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/687825/critique-humour-une-therapie-de-groupe-avec-philou</link>
-<guid>https://www.ledevoir.com/culture/687825/critique-humour-une-therapie-de-groupe-avec-philou</guid>
-<category>Culture</category>
-<description>Le nouveau solo de Phil Roy suscite beaucoup de rires, et même quelques larmes.</description>
-<author>redaction@ledevoir.com (Christian Saint-Pierre)</author>
-</item>
-<item>
-<surtitle/>
-<title>Notre choix ce soir</title>
-<pubDate>Fri, 18 Mar 2022 03:06:31 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/ecrans/687822/television-notre-choix-ce-soir</link>
-<guid>https://www.ledevoir.com/culture/ecrans/687822/television-notre-choix-ce-soir</guid>
-<category>Écrans</category>
-<description>Reportage, classique ou découverte: voici ce que «Le Devoir» vous suggère.</description>
-<author>amegaudreau@ledevoir.com (Amélie Gaudreau)</author>
-</item>
-<item>
-<surtitle/>
-<title>Les décès, une guerre de chiffres en Ukraine</title>
-<pubDate>Fri, 18 Mar 2022 03:06:23 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/europe/687816/guerre-en-ukraine-les-deces-une-guerre-de-chiffres-en-ukraine</link>
-<guid>https://www.ledevoir.com/monde/europe/687816/guerre-en-ukraine-les-deces-une-guerre-de-chiffres-en-ukraine</guid>
-<category>Europe</category>
-<description>Trois experts font le point sur les données disponibles discordantes.</description>
-<author>zgoudreault@ledevoir.com (Zacharie Goudreault)</author>
-</item>
-<item>
-<surtitle>Idées</surtitle>
-<title>La grève de 2012, une économie de 117 millions pour 390 000 étudiants</title>
-<pubDate>Fri, 18 Mar 2022 03:06:16 -0400</pubDate>
-<link>https://www.ledevoir.com/opinion/idees/687810/la-greve-de-2012-une-economie-de-117-millions-pour-390-000-etudiants</link>
-<guid>https://www.ledevoir.com/opinion/idees/687810/la-greve-de-2012-une-economie-de-117-millions-pour-390-000-etudiants</guid>
-<category>Idées</category>
-<description>Personne ne devrait avoir à payer ou à s’endetter pour étudier.</description>
-<author/>
-</item>
-<item>
-<surtitle>Idées</surtitle>
-<title>Un aveu d’impuissance du Canada?</title>
-<pubDate>Fri, 18 Mar 2022 03:06:08 -0400</pubDate>
-<link>https://www.ledevoir.com/opinion/idees/687807/exercice-un-aveu-d-impuissance-du-canada</link>
-<guid>https://www.ledevoir.com/opinion/idees/687807/exercice-un-aveu-d-impuissance-du-canada</guid>
-<category>Idées</category>
-<description>Quelle image de lui-même l’État canadien a-t-il donnée à ses alliés et à la Russie?</description>
-<author/>
-</item>
-<item>
-<surtitle>​Chronique</surtitle>
-<title>Entre mille feux</title>
-<pubDate>Fri, 18 Mar 2022 03:05:59 -0400</pubDate>
-<link>https://www.ledevoir.com/opinion/chroniques/687804/chronique-entre-mille-feux</link>
-<guid>https://www.ledevoir.com/opinion/chroniques/687804/chronique-entre-mille-feux</guid>
-<category>Chroniques</category>
-<description>Les citoyens québécois sont laissés seuls devant l’explosion du coût de la vie.</description>
-<author>redaction@ledevoir.com (Aurélie Lanctôt)</author>
-</item>
-<item>
-<surtitle>Lettres</surtitle>
-<title>Sommes-nous censés nous réjouir?</title>
-<pubDate>Fri, 18 Mar 2022 03:05:44 -0400</pubDate>
-<link>https://www.ledevoir.com/opinion/lettres/687795/sommes-nous-censes-nous-rejouir</link>
-<guid>https://www.ledevoir.com/opinion/lettres/687795/sommes-nous-censes-nous-rejouir</guid>
-<category>Lettres</category>
-<description>À lire parmi notre sélection quotidienne de lettres rédigées par nos lecteurs.</description>
-<author/>
-</item>
-<item>
-<surtitle>Lettres</surtitle>
-<title>Agir contre les charlatans de la nutrition</title>
-<pubDate>Fri, 18 Mar 2022 03:05:36 -0400</pubDate>
-<link>https://www.ledevoir.com/opinion/lettres/687792/agir-contre-les-charlatans-de-la-nutrition</link>
-<guid>https://www.ledevoir.com/opinion/lettres/687792/agir-contre-les-charlatans-de-la-nutrition</guid>
-<category>Lettres</category>
-<description>À lire parmi notre sélection quotidienne de lettres rédigées par nos lecteurs.</description>
-<author/>
-</item>
-<item>
-<surtitle>​Libre opinion</surtitle>
-<title>L’art et la guerre</title>
-<pubDate>Fri, 18 Mar 2022 03:05:29 -0400</pubDate>
-<link>https://www.ledevoir.com/opinion/libre-opinion/687789/libre-opinion-l-art-et-la-guerre</link>
-<guid>https://www.ledevoir.com/opinion/libre-opinion/687789/libre-opinion-l-art-et-la-guerre</guid>
-<category>Libre opinion</category>
-<description>L’art est une façon de rapprocher les peuples.</description>
-<author/>
-</item>
-<item>
-<surtitle>Critique</surtitle>
-<title>«Trois fois rien»: la loterie pour quitter la rue</title>
-<pubDate>Fri, 18 Mar 2022 03:05:21 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/cinema/687774/cinema-trois-fois-rien-la-loterie-pour-quitter-la-rue</link>
-<guid>https://www.ledevoir.com/culture/cinema/687774/cinema-trois-fois-rien-la-loterie-pour-quitter-la-rue</guid>
-<category>Cinéma</category>
-<description>Pour son premier rôle principal en France, Antoine Bertrand incarne… un Québécois!</description>
-<author>jdelgado@ledevoir.com (Jérôme Delgado)</author>
-</item>
-<item>
-<surtitle>Critique</surtitle>
-<title>Jeux de miroirs pour jeu de massacre dans «X»</title>
-<pubDate>Fri, 18 Mar 2022 03:05:09 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/cinema/687768/grand-angle-cinema-jeux-de-miroirs-pour-jeu-de-massacre-dans-x</link>
-<guid>https://www.ledevoir.com/culture/cinema/687768/grand-angle-cinema-jeux-de-miroirs-pour-jeu-de-massacre-dans-x</guid>
-<category>Cinéma</category>
-<description>Ti West détourne les clichés du «slasher» tout en posant un regard satirique sur sa propre pratique.</description>
-<author>flevesque@ledevoir.com (François Lévesque)</author>
-</item>
-<item>
-<surtitle>​Éditorial - Urgence sanitaire</surtitle>
-<title>Garder les coudées franches</title>
-<pubDate>Fri, 18 Mar 2022 03:04:57 -0400</pubDate>
-<link>https://www.ledevoir.com/opinion/editoriaux/687762/urgence-sanitaire-garder-les-coudees-franches</link>
-<guid>https://www.ledevoir.com/opinion/editoriaux/687762/urgence-sanitaire-garder-les-coudees-franches</guid>
-<category>Éditoriaux</category>
-<description>Le gouvernement Legault se donne carte blanche pour sortir de la pandémie.</description>
-<author>rdutrisac@ledevoir.com (Robert Dutrisac)</author>
-</item>
-<item>
-<surtitle>Billet vin</surtitle>
-<title>Une p’tite crème de menthe verte avec ça?</title>
-<pubDate>Fri, 18 Mar 2022 03:04:49 -0400</pubDate>
-<link>https://www.ledevoir.com/vivre/vin/687759/billet-une-p-tite-creme-de-menthe-verte-avec-ca</link>
-<guid>https://www.ledevoir.com/vivre/vin/687759/billet-une-p-tite-creme-de-menthe-verte-avec-ca</guid>
-<category>Vin</category>
-<description>Les liqueurs, crèmes de fruits et autres distillats sont un «monde parallèle» dont l’offre est vaste.</description>
-<author>guideaubry@gmail.com (Jean Aubry)</author>
-</item>
-<item>
-<surtitle/>
-<title>Deux projets alimentaires qui ont du sens</title>
-<pubDate>Fri, 18 Mar 2022 03:04:38 -0400</pubDate>
-<link>https://www.ledevoir.com/vivre/alimentation/687756/alimentation-deux-projets-alimentaires-qui-ont-du-sens</link>
-<guid>https://www.ledevoir.com/vivre/alimentation/687756/alimentation-deux-projets-alimentaires-qui-ont-du-sens</guid>
-<category>Alimentation</category>
-<description>La fermentation de produits mal aimés et la lyophilisation de rebuts pour réduire le gaspillage.</description>
-<author>sophiegrenierheroux@hotmail.com (Sophie Grenier-Héroux)</author>
-</item>
-<item>
-<surtitle>Vin</surtitle>
-<title>Chianti Classico 2019, Tenuta di Renieri, Toscane, Italie</title>
-<pubDate>Fri, 18 Mar 2022 03:04:27 -0400</pubDate>
-<link>https://www.ledevoir.com/vivre/vin/687753/chianti-classico-2019-tenuta-di-renieri-toscane-italie</link>
-<guid>https://www.ledevoir.com/vivre/vin/687753/chianti-classico-2019-tenuta-di-renieri-toscane-italie</guid>
-<category>Vin</category>
-<description>Voilà qui est bien emballé. Sans tomber le moins du monde dans l’extraction bidon, mais plutôt dans...</description>
-<author>guideaubry@gmail.com (Jean Aubry)</author>
-</item>
-<item>
-<surtitle>Vin</surtitle>
-<title>Clos des Fous «Subsollum» 2018, Chili</title>
-<pubDate>Fri, 18 Mar 2022 03:04:17 -0400</pubDate>
-<link>https://www.ledevoir.com/vivre/vin/687750/clos-des-fous-subsollum-2018-chili</link>
-<guid>https://www.ledevoir.com/vivre/vin/687750/clos-des-fous-subsollum-2018-chili</guid>
-<category>Vin</category>
-<description>Nos quatre compères, que nous nommerons ici par les seules lettres C., L., M. et P., poursuivent...</description>
-<author>guideaubry@gmail.com (Jean Aubry)</author>
-</item>
-<item>
-<surtitle>Vin</surtitle>
-<title>Chardonnay 2019, Quails’ Gate, Vallée de l’Okanagan, Canada</title>
-<pubDate>Fri, 18 Mar 2022 03:04:07 -0400</pubDate>
-<link>https://www.ledevoir.com/vivre/vin/687747/chardonnay-2019-quails-gate-vallee-de-l-okanagan-canada</link>
-<guid>https://www.ledevoir.com/vivre/vin/687747/chardonnay-2019-quails-gate-vallee-de-l-okanagan-canada</guid>
-<category>Vin</category>
-<description>La famille Stewart livre une production qui compte parmi l’élite des vins canadiens. Les vins y sont...</description>
-<author>guideaubry@gmail.com (Jean Aubry)</author>
-</item>
-<item>
-<surtitle>Vin</surtitle>
-<title>Abel, Gin au miel et à la propolis, Les Subversifs, Québec</title>
-<pubDate>Fri, 18 Mar 2022 03:03:57 -0400</pubDate>
-<link>https://www.ledevoir.com/vivre/vin/687744/abel-gin-au-miel-et-a-la-propolis-les-subversifs-quebec</link>
-<guid>https://www.ledevoir.com/vivre/vin/687744/abel-gin-au-miel-et-a-la-propolis-les-subversifs-quebec</guid>
-<category>Vin</category>
-<description>Si les notes de genévrier, de coriandre, d’écorce d’orange, de pamplemousse rose ponctuent avec...</description>
-<author>guideaubry@gmail.com (Jean Aubry)</author>
-</item>
-<item>
-<surtitle>Vin</surtitle>
-<title>Ayala Rosé Majeur Brut, Champagne, France</title>
-<pubDate>Fri, 18 Mar 2022 03:03:48 -0400</pubDate>
-<link>https://www.ledevoir.com/vivre/vin/687738/ayala-rose-majeur-brut-champagne-france</link>
-<guid>https://www.ledevoir.com/vivre/vin/687738/ayala-rose-majeur-brut-champagne-france</guid>
-<category>Vin</category>
-<description>Le champagne élaboré en rosé ne peut tout simplement pas s’inscrire comme étant simplement bon. Il...</description>
-<author>guideaubry@gmail.com (Jean Aubry)</author>
-</item>
-<item>
-<surtitle>Vin</surtitle>
-<title>Laguna de la Nava Reserva 2016, Valdepeñas, Espagne</title>
-<pubDate>Fri, 18 Mar 2022 03:03:39 -0400</pubDate>
-<link>https://www.ledevoir.com/vivre/vin/687735/laguna-de-la-nava-reserva-2016-valdepenas-espagne</link>
-<guid>https://www.ledevoir.com/vivre/vin/687735/laguna-de-la-nava-reserva-2016-valdepenas-espagne</guid>
-<category>Vin</category>
-<description>Le nouvel habillage du flacon pourrait nous inciter à déceler l’intention d’un maquillage...</description>
-<author>guideaubry@gmail.com (Jean Aubry)</author>
-</item>
-<item>
-<surtitle>Zeitgeist</surtitle>
-<title>Les montagnes russes</title>
-<pubDate>Fri, 18 Mar 2022 03:03:31 -0400</pubDate>
-<link>https://www.ledevoir.com/opinion/chroniques/687726/les-montagnes-russes</link>
-<guid>https://www.ledevoir.com/opinion/chroniques/687726/les-montagnes-russes</guid>
-<category>Chroniques</category>
-<description>Deux ans à voltiger entre espoirs et vertiges.</description>
-<author>cherejoblo@ledevoir.com (Josée Blanchette)</author>
-</item>
-<item>
-<surtitle/>
-<title>Bas les masques à l’écran!</title>
-<pubDate>Fri, 18 Mar 2022 03:03:22 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/ecrans/687699/ecrans-bas-les-masques-a-l-ecran</link>
-<guid>https://www.ledevoir.com/culture/ecrans/687699/ecrans-bas-les-masques-a-l-ecran</guid>
-<category>Écrans</category>
-<description>Les fictions d’ici tournées en temps de pandémie ont fait fi de celle-ci.</description>
-<author>redaction@ledevoir.com (Manon Dumais)</author>
-</item>
-<item>
-<surtitle/>
-<title>«Young Souls» plaira aux amateurs de «beat’em up» nostalgiques</title>
-<pubDate>Fri, 18 Mar 2022 03:03:10 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/ecrans/687642/young-souls-plaira-aux-amateurs-de-beat-em-up-nostalgiques</link>
-<guid>https://www.ledevoir.com/culture/ecrans/687642/young-souls-plaira-aux-amateurs-de-beat-em-up-nostalgiques</guid>
-<category>Écrans</category>
-<description>Deux ados rebelles tentent de libérer leur père adoptif captif d’un empire souterrain peuplé de gobelins.</description>
-<author>jallard@ledevoir.com (Jonathan Allard)</author>
-</item>
-<item>
-<surtitle/>
-<title>«Nouveau-Québec»: le voyage immobile</title>
-<pubDate>Fri, 18 Mar 2022 03:03:00 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/cinema/687639/cinema-nouveau-quebec-le-voyage-immobile</link>
-<guid>https://www.ledevoir.com/culture/cinema/687639/cinema-nouveau-quebec-le-voyage-immobile</guid>
-<category>Cinéma</category>
-<description>Devant l’immensité et l’imprévisible, un couple se perd, puis retrouve des vérités enfouies.</description>
-<author>redaction@ledevoir.com (André Lavoie)</author>
-</item>
-<item>
-<surtitle/>
-<title>«Great Freedom»: leurs années de plomb</title>
-<pubDate>Fri, 18 Mar 2022 03:02:51 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/cinema/687627/critique-cinema-great-freedom-leurs-annees-de-plomb</link>
-<guid>https://www.ledevoir.com/culture/cinema/687627/critique-cinema-great-freedom-leurs-annees-de-plomb</guid>
-<category>Cinéma</category>
-<description>En Allemagne de l’Ouest, l’évolution des moeurs vue à travers les barreaux d’une prison.</description>
-<author>redaction@ledevoir.com (André Lavoie)</author>
-</item>
-<item>
-<surtitle/>
-<title>«The Outfit»: la métaphore ne fait pas le film</title>
-<pubDate>Fri, 18 Mar 2022 03:02:42 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/cinema/687624/critique-cinema-the-outfit-la-metaphore-ne-fait-pas-le-film</link>
-<guid>https://www.ledevoir.com/culture/cinema/687624/critique-cinema-the-outfit-la-metaphore-ne-fait-pas-le-film</guid>
-<category>Cinéma</category>
-<description>Le huis clos de Graham Moore exsude un charme suranné mais est esclave d’un concept limitatif.</description>
-<author>flevesque@ledevoir.com (François Lévesque)</author>
-</item>
-<item>
-<surtitle/>
-<title>Juliette Binoche chez les invisibles de «Ouistreham»</title>
-<pubDate>Fri, 18 Mar 2022 03:02:31 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/cinema/687618/cinema-juliette-binoche-chez-les-invisibles-de-ouistreham</link>
-<guid>https://www.ledevoir.com/culture/cinema/687618/cinema-juliette-binoche-chez-les-invisibles-de-ouistreham</guid>
-<category>Cinéma</category>
-<description>Le film réalisé par Emmanuel Carrère porte sur l’univers précaire des femmes de ménage.</description>
-<author>otremblay@ledevoir.com (Odile Tremblay)</author>
-</item>
-<item>
-<surtitle>Vitrine musique</surtitle>
-<title>Sewaside II, Mike Shabb</title>
-<pubDate>Fri, 18 Mar 2022 03:02:22 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/687615/hip-hop-sewaside-ii-mike-shabb</link>
-<guid>https://www.ledevoir.com/culture/musique/687615/hip-hop-sewaside-ii-mike-shabb</guid>
-<category>Musique</category>
-<description>C’est fou comment Sewaside II donne l’impression que Mike Shabb a gagné dix ans en maturité....</description>
-<author>philrenaud@hotmail.com (Philippe Renaud)</author>
-</item>
-<item>
-<surtitle>​Vitrine musique</surtitle>
-<title>Motomani, Rosalía</title>
-<pubDate>Fri, 18 Mar 2022 03:02:14 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/687612/pop-motomani</link>
-<guid>https://www.ledevoir.com/culture/musique/687612/pop-motomani</guid>
-<category>Musique</category>
-<description>Après le succès critique et commercial du très remarqué El Mal Querer (2018), Rosalía Vila Tobella...</description>
-<author>webmestre@ledevoir.com (Marie Hélène Poitras)</author>
-</item>
-<item>
-<surtitle>Vitrine musique</surtitle>
-<title>House To House, Matt Andersen</title>
-<pubDate>Fri, 18 Mar 2022 03:02:04 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/687609/folk-blues-house-to-house</link>
-<guid>https://www.ledevoir.com/culture/musique/687609/folk-blues-house-to-house</guid>
-<category>Musique</category>
-<description>On imagine la scène. Le groupe joue façon marteau-enclume, blues-rock irrépressible après blues-rock...</description>
-<author>redaction@ledevoir.com (Sylvain Cormier)</author>
-</item>
-<item>
-<surtitle>Vitrine musique</surtitle>
-<title>Thomas de Hartmann, Theodore Kuchar</title>
-<pubDate>Fri, 18 Mar 2022 03:01:54 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/687606/classique-thomas-de-hartmann</link>
-<guid>https://www.ledevoir.com/culture/musique/687606/classique-thomas-de-hartmann</guid>
-<category>Musique</category>
-<description>Paru le 22 février, le disque, enregistré en septembre 2021 par le Philharmonique national de Lviv...</description>
-<author>redaction@ledevoir.com (Christophe Huss)</author>
-</item>
-<item>
-<surtitle>​Vitrine musique</surtitle>
-<title>PAINLESS, Nilüfer Yanya</title>
-<pubDate>Fri, 18 Mar 2022 03:01:42 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/687603/rock-painless-nilufer-yanya</link>
-<guid>https://www.ledevoir.com/culture/musique/687603/rock-painless-nilufer-yanya</guid>
-<category>Musique</category>
-<description>Ne nous laissons pas berner par le titre du troisième album de la jeune...</description>
-<author>philrenaud@hotmail.com (Philippe Renaud)</author>
-</item>
-<item>
-<surtitle>​Vitrine musique</surtitle>
-<title>Wolfgang Amadeus Mozart, Gil Shaham et Nicholas McGegan</title>
-<pubDate>Fri, 18 Mar 2022 03:01:33 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/687597/classique-wolfgang-amadeus-mozart</link>
-<guid>https://www.ledevoir.com/culture/musique/687597/classique-wolfgang-amadeus-mozart</guid>
-<category>Musique</category>
-<description>Enrichie par l’Adagio K. 261 et le Rondo K. 373, cette nouvelle intégrale des concertos pour violon...</description>
-<author>redaction@ledevoir.com (Christophe Huss)</author>
-</item>
-<item>
-<surtitle>​Vitrine musique</surtitle>
-<title>Earthling, Eddie Vedder</title>
-<pubDate>Fri, 18 Mar 2022 03:01:25 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/687594/rock-earthling</link>
-<guid>https://www.ledevoir.com/culture/musique/687594/rock-earthling</guid>
-<category>Musique</category>
-<description>Lâchons le mot : grunge. Eddie Vedder a troqué son ukulélé pour une Fender qui griche, pédale de...</description>
-<author>redaction@ledevoir.com (Sylvain Cormier)</author>
-</item>
-<item>
-<surtitle>Vitrine musique</surtitle>
-<title>Crash, Charli XCX</title>
-<pubDate>Fri, 18 Mar 2022 03:01:17 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/musique/687588/pop-crash-charli-xcx</link>
-<guid>https://www.ledevoir.com/culture/musique/687588/pop-crash-charli-xcx</guid>
-<category>Musique</category>
-<description>Neuf ans après la parution de son premier album, True Romance, la Britannique Charli XCX est devenue...</description>
-<author>philrenaud@hotmail.com (Philippe Renaud)</author>
-</item>
-<item>
-<surtitle>​</surtitle>
-<title>Joanne Arseneau et Stéphane Lapointe en zones grises</title>
-<pubDate>Fri, 18 Mar 2022 03:00:59 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/ecrans/687534/ecrans-joanne-arseneau-et-stephane-lapointe-en-zones-grises</link>
-<guid>https://www.ledevoir.com/culture/ecrans/687534/ecrans-joanne-arseneau-et-stephane-lapointe-en-zones-grises</guid>
-<category>Écrans</category>
-<description>Après «Faits divers», Joanne Arseneau et Stéphane Lapointe se tournent vers le drame avec «Une affaire criminelle».</description>
-<author>redaction@ledevoir.com (Manon Dumais)</author>
-</item>
-<item>
-<surtitle>​</surtitle>
-<title>«Cerveau multitâche, une illusion?»: le leurre de la productivité</title>
-<pubDate>Fri, 18 Mar 2022 03:00:45 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/ecrans/687522/ecrans-cerveau-multitache-une-illusion-le-leurre-de-la-productivite</link>
-<guid>https://www.ledevoir.com/culture/ecrans/687522/ecrans-cerveau-multitache-une-illusion-le-leurre-de-la-productivite</guid>
-<category>Écrans</category>
-<description>Ce documentaire met en lumière l’incapacité de réaliser plusieurs tâches simultanément.</description>
-<author>myargeau@ledevoir.com (Maïka Yargeau)</author>
-</item>
-<item>
-<surtitle/>
-<title>«Pachinko»: éternels étrangers</title>
-<pubDate>Fri, 18 Mar 2022 03:00:35 -0400</pubDate>
-<link>https://www.ledevoir.com/culture/ecrans/687519/ecrans-pachinko-eternels-etrangers</link>
-<guid>https://www.ledevoir.com/culture/ecrans/687519/ecrans-pachinko-eternels-etrangers</guid>
-<category>Écrans</category>
-<description>Une adaptation somptueuse et passionnante d’une saga historique qui fait oeuvre utile.</description>
-<author>amegaudreau@ledevoir.com (Amélie Gaudreau)</author>
-</item>
-<item>
-<surtitle/>
-<title>Une commission pour «limiter les impacts économiques» de la protection du caribou</title>
-<pubDate>Fri, 18 Mar 2022 03:00:25 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/environnement/687486/faune-les-derniers-caribous-de-charlevoix-sont-en-captivite</link>
-<guid>https://www.ledevoir.com/societe/environnement/687486/faune-les-derniers-caribous-de-charlevoix-sont-en-captivite</guid>
-<category>Environnement</category>
-<description>Les consultations publiques seront menées seulement dans des régions où l’industrie forestière est importante.</description>
-<author>ashields@ledevoir.com (Alexandre Shields)</author>
-</item>
-<item>
-<surtitle/>
-<title>En Pologne, un afflux d’Ukrainiennes prêtes à travailler</title>
-<pubDate>Fri, 18 Mar 2022 03:00:18 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/europe/687447/guerre-en-ukraine-en-pologne-un-afflux-d-ukrainiennes-pretes-a-travailler</link>
-<guid>https://www.ledevoir.com/monde/europe/687447/guerre-en-ukraine-en-pologne-un-afflux-d-ukrainiennes-pretes-a-travailler</guid>
-<category>Europe</category>
-<description>Une abondante main-d’oeuvre qui apporte néanmoins son lot d’incertitudes.</description>
-<author>webmestre@ledevoir.com (Patrice Senécal)</author>
-</item>
-<item>
-<surtitle/>
-<title>Le ministre Boulet veut des réponses quant aux préposés étrangers sans permis ni salaires</title>
-<pubDate>Fri, 18 Mar 2022 03:00:09 -0400</pubDate>
-<link>https://www.ledevoir.com/politique/quebec/687432/le-ministre-boulet-veut-des-reponses-quant-aux-preposes-etrangers-sans-permis-ni-salaires</link>
-<guid>https://www.ledevoir.com/politique/quebec/687432/le-ministre-boulet-veut-des-reponses-quant-aux-preposes-etrangers-sans-permis-ni-salaires</guid>
-<category>Québec</category>
-<description>Le ministre du Travail lance une nouvelle enquête après les révélations du «Devoir» sur la résidence Villa Mon Domaine.</description>
-<author>iporter@ledevoir.com (Isabelle Porter)</author>
-</item>
-<item>
-<surtitle/>
-<title>Après 30 ans d’absence, Gaston Lagaffe fera son retour avec Delaf</title>
-<pubDate>Fri, 18 Mar 2022 00:10:08 -0400</pubDate>
-<link>https://www.ledevoir.com/lire/687693/apres-30-ans-d-absence-gaston-lagaffe-fera-son-retour-avec-delaf</link>
-<guid>https://www.ledevoir.com/lire/687693/apres-30-ans-d-absence-gaston-lagaffe-fera-son-retour-avec-delaf</guid>
-<category>Lire</category>
-<description>Les Éditions Dupuis ont confié la série au dessinateur et scénariste québécois.</description>
+<surtitle />
+<title
+      >Fermeture demandée pour des lieux de détention et de torture en Ouganda</title>
+<pubDate>Tue, 22 Mar 2022 10:01:06 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/afrique/689529/fermeture-de-lieux-de-detention-et-de-torture-demandee-en-ouganda</link>
+<guid
+      >https://www.ledevoir.com/monde/afrique/689529/fermeture-de-lieux-de-detention-et-de-torture-demandee-en-ouganda</guid>
+<category>Afrique</category>
+<description
+      >Human Rights Watch a recueilli les témoignages de dizaines de personnes sur les abus dans ces sites clandestins.</description>
 <author>webmestre@ledevoir.com (Agence France-Presse)</author>
 </item>
 <item>
-<surtitle/>
-<title>Sobeys réévalue son réseau d’entrepôts dans le province</title>
-<pubDate>Thu, 17 Mar 2022 23:01:46 -0400</pubDate>
-<link>https://www.ledevoir.com/economie/687861/alimentation-sobeys-reevalue-son-reseau-d-entrepots-dans-le-province</link>
-<guid>https://www.ledevoir.com/economie/687861/alimentation-sobeys-reevalue-son-reseau-d-entrepots-dans-le-province</guid>
-<category>Économie</category>
-<description>Quelque 190 employés du centre de distribution de Terrebonne sont en grève depuis plus d’un mois.</description>
-<author>webmestre@ledevoir.com (Lia Lévesque)</author>
+<surtitle />
+<title
+      >Le délaissement du masque, une libération pour ceux qui souffrent de trouble du langage</title>
+<pubDate>Tue, 22 Mar 2022 09:32:05 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/sante/689520/le-delaissement-du-masque-une-liberation-pour-ceux-qui-souffrent-de-trouble-du-langage</link>
+<guid
+      >https://www.ledevoir.com/societe/sante/689520/le-delaissement-du-masque-une-liberation-pour-ceux-qui-souffrent-de-trouble-du-langage</guid>
+<category>Santé</category>
+<description
+      >Porter le masque deviendra «un choix personnel» dans la plupart des lieux publics au Québec d’ici la mi-avril.</description>
+<author>jlbordeleau@ledevoir.com (Jean-Louis Bordeleau)</author>
 </item>
 <item>
-<surtitle/>
-<title>Macron promet une «France plus indépendante» sur plusieurs fronts</title>
-<pubDate>Thu, 17 Mar 2022 22:58:33 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/europe/687834/presidentielle-francaise-macron-promet-une-france-plus-independante-sur-plusieurs-fronts</link>
-<guid>https://www.ledevoir.com/monde/europe/687834/presidentielle-francaise-macron-promet-une-france-plus-independante-sur-plusieurs-fronts</guid>
-<category>Europe</category>
-<description>En présentant son programme, le candidat favori a évoqué des «choix parfois historiques» qui devront être faits.</description>
-<author>webmestre@ledevoir.com (Lucie Peytermann)</author>
+<surtitle />
+<title>Derrière la lutte contre la violence armée du SPVM</title>
+<pubDate>Tue, 22 Mar 2022 09:27:58 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/689412/violence-armee-derriere-la-lutte-contre-la-violence-armee-du-svpm</link>
+<guid
+      >https://www.ledevoir.com/societe/689412/violence-armee-derriere-la-lutte-contre-la-violence-armee-du-svpm</guid>
+<category>Société</category>
+<description
+      >«Le Devoir» a suivi l’Équipe multisectorielle dédiée aux armes à feu (EMAF) lundi.</description>
+<author>apineda@ledevoir.com (Améli Pineda)</author>
 </item>
 <item>
-<surtitle/>
-<title>L’OMS devrait écarter le vaccin de Medicago</title>
-<pubDate>Thu, 17 Mar 2022 22:56:53 -0400</pubDate>
-<link>https://www.ledevoir.com/economie/687873/l-oms-devrait-ecarter-le-vaccin-de-medicago</link>
-<guid>https://www.ledevoir.com/economie/687873/l-oms-devrait-ecarter-le-vaccin-de-medicago</guid>
-<category>Économie</category>
-<description>Les liens de la pharmaceutique avec l’industrie du tabac sont évoqués.</description>
+<surtitle />
+<title>De nouveaux indicatifs régionaux créés pour différentes régions</title>
+<pubDate>Tue, 22 Mar 2022 08:46:21 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/689502/de-nouveaux-indicatifs-regionaux-crees-pour-differentes-regions</link>
+<guid
+      >https://www.ledevoir.com/societe/689502/de-nouveaux-indicatifs-regionaux-crees-pour-differentes-regions</guid>
+<category>Société</category>
+<description
+      >La grande région de Montréal comptera notamment sur deux nouveaux indicatifs régionaux.</description>
 <author>webmestre@ledevoir.com (La Presse canadienne)</author>
+</item>
+<item>
+<surtitle />
+<title>Maximiser l’utilisation des lits d'hôpitaux, le nerf de la guerre</title>
+<pubDate>Tue, 22 Mar 2022 08:10:35 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/sante/689322/q-et-r-maximiser-l-utilisation-des-lits-d-hopitaux-le-nerf-de-la-guerre</link>
+<guid
+      >https://www.ledevoir.com/societe/sante/689322/q-et-r-maximiser-l-utilisation-des-lits-d-hopitaux-le-nerf-de-la-guerre</guid>
+<category>Santé</category>
+<description
+      >La Dre Pascale Dubois donne plusieurs pistes de solution pour améliorer la prise en charge des patients.</description>
+<author>mecousineau@ledevoir.com (Marie-Eve Cousineau)</author>
+</item>
+<item>
+<surtitle />
+<title>Fin de l’arrêt de travail au Canadien Pacifique</title>
+<pubDate>Tue, 22 Mar 2022 08:07:31 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/economie/689481/fin-de-l-arret-de-travail-au-canadien-pacifique</link>
+<guid
+      >https://www.ledevoir.com/economie/689481/fin-de-l-arret-de-travail-au-canadien-pacifique</guid>
+<category>Économie</category>
+<description
+      >La compagnie et le syndicat se sont entendus sur la mise en place d’un arbitrage définitif et obligatoire.</description>
+<author>webmestre@ledevoir.com (La Presse canadienne)</author>
+</item>
+<item>
+<surtitle>​</surtitle>
+<title
+      >Serge Ménard persiste et signe sur son rapport, dix ans après le Printemps érable</title>
+<pubDate>Tue, 22 Mar 2022 07:07:07 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/689388/entrevue-serge-menard-persiste-et-signe-sur-son-rapport-dix-ans-apres-le-printemps-erable</link>
+<guid
+      >https://www.ledevoir.com/societe/689388/entrevue-serge-menard-persiste-et-signe-sur-son-rapport-dix-ans-apres-le-printemps-erable</guid>
+<category>Société</category>
+<description
+      >L’ancien ministre maintient que son épais rapport sur les événements de 2012 a donné des résultats.</description>
+<author>fcarabin@ledevoir.com (François Carabin)</author>
+</item>
+<item>
+<surtitle />
+<title>Le NPD pourrait aider les libéraux à gouverner jusqu’en 2025</title>
+<pubDate>Tue, 22 Mar 2022 03:03:59 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/politique/canada/689418/le-npd-pourrait-aider-les-liberaux-a-gouverner-jusqu-en-2025</link>
+<guid
+      >https://www.ledevoir.com/politique/canada/689418/le-npd-pourrait-aider-les-liberaux-a-gouverner-jusqu-en-2025</guid>
+<category>Canada</category>
+<description
+      >Un accord de principe a été conclu entre les dirigeants des deux partis politiques.</description>
+<author>aprovost@ledevoir.com (Anne-Marie Provost)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Injecter de l’hydrogène dans le réseau gazier, une fausse bonne idée?</title>
+<pubDate>Tue, 22 Mar 2022 03:03:52 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/science/689409/injecter-de-l-hydrogene-dans-le-reseau-gazier-une-fausse-bonne-idee</link>
+<guid
+      >https://www.ledevoir.com/societe/science/689409/injecter-de-l-hydrogene-dans-le-reseau-gazier-une-fausse-bonne-idee</guid>
+<category>Science</category>
+<description
+      >Selon les spécialistes de l’énergie, il s’agit d’une des pires utilisations envisageables de la molécule.</description>
+<author>ariopel@ledevoir.com (Alexis Riopel)</author>
+</item>
+<item>
+<surtitle />
+<title>Les visages du Printemps érable</title>
+<pubDate>Tue, 22 Mar 2022 03:03:44 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/culture/689394/les-visages-du-printemps-erable-les-visages-du-printemps-erable</link>
+<guid
+      >https://www.ledevoir.com/culture/689394/les-visages-du-printemps-erable-les-visages-du-printemps-erable</guid>
+<category>Culture</category>
+<description
+      >Cinq Québécois nous racontent leurs souvenirs de la grève étudiante et du Printemps érable.</description>
+<author>redaction@ledevoir.com (Le Devoir)</author>
+</item>
+<item>
+<surtitle />
+<title>Dix ans plus tard, les étudiants reprennent la rue</title>
+<pubDate>Tue, 22 Mar 2022 03:03:37 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/education/689391/printemps-erable-dix-ans-plus-tard-les-etudiants-reprennent-la-rue</link>
+<guid
+      >https://www.ledevoir.com/societe/education/689391/printemps-erable-dix-ans-plus-tard-les-etudiants-reprennent-la-rue</guid>
+<category>Éducation</category>
+<description
+      >Certains militent pour freiner la hausse des droits de scolarité, d’autres font la grève pour la gratuité.</description>
+<author>mfortier@ledevoir.com (Marco Fortier)</author>
+</item>
+<item>
+<surtitle />
+<title>Québec deviendra-t-elle la prochaine plaque tournante du cinéma?</title>
+<pubDate>Tue, 22 Mar 2022 03:03:23 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/culture/cinema/689376/cinema-quebec-deviendra-t-elle-la-prochaine-plaque-tournante-du-cinema</link>
+<guid
+      >https://www.ledevoir.com/culture/cinema/689376/cinema-quebec-deviendra-t-elle-la-prochaine-plaque-tournante-du-cinema</guid>
+<category>Cinéma</category>
+<description
+      >L’arrivée d’un baccalauréat en cinéma à l’Université Laval est porteuse d’espoir pour l’industrie régionale.</description>
+<author>webmestre@ledevoir.com (Étienne Paré)</author>
+</item>
+<item>
+<surtitle />
+<title>Un nouveau printemps pour les salons du livre</title>
+<pubDate>Tue, 22 Mar 2022 03:03:17 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/lire/689373/litterature-un-nouveau-printemps-pour-les-salons-du-livre</link>
+<guid
+      >https://www.ledevoir.com/lire/689373/litterature-un-nouveau-printemps-pour-les-salons-du-livre</guid>
+<category>Lire</category>
+<description
+      >Après les arts de la scène, au tour des événements littéraires de retrouver un semblant de normalité. Tour d’horizon.</description>
+<author>webmestre@ledevoir.com (Marie Hélène Poitras)</author>
+</item>
+<item>
+<surtitle />
+<title>Notre choix ce soir</title>
+<pubDate>Tue, 22 Mar 2022 03:03:05 -0400</pubDate>
+<link>https://www.ledevoir.com/culture/ecrans/689367/notre-choix-ce-soir</link>
+<guid>https://www.ledevoir.com/culture/ecrans/689367/notre-choix-ce-soir</guid>
+<category>Écrans</category>
+<description
+      >Reportage, classique ou découverte: voici ce que «Le Devoir» vous suggère.</description>
+<author>amegaudreau@ledevoir.com (Amélie Gaudreau)</author>
+</item>
+<item>
+<surtitle>​Chronique</surtitle>
+<title>La pente savonneuse</title>
+<pubDate>Tue, 22 Mar 2022 03:02:55 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/chroniques/689352/chronique-la-pente-savonneuse</link>
+<guid
+      >https://www.ledevoir.com/opinion/chroniques/689352/chronique-la-pente-savonneuse</guid>
+<category>Chroniques</category>
+<description
+      >En santé comme en éducation, favoriser le privé aura des effets pervers.</description>
+<author>mdavid@ledevoir.com (Michel David)</author>
+</item>
+<item>
+<surtitle>Chronique</surtitle>
+<title>Sur fond de guerre</title>
+<pubDate>Tue, 22 Mar 2022 03:02:41 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/chroniques/689316/sur-fond-de-guerre</link>
+<guid
+      >https://www.ledevoir.com/opinion/chroniques/689316/sur-fond-de-guerre</guid>
+<category>Chroniques</category>
+<description
+      >L’actuel conflit, la hausse des taux d’intérêt et la poussée fiévreuse des cours pétroliers teinteront l’exercice.</description>
+<author>gberube@ledevoir.com (Gérard Bérubé)</author>
+</item>
+<item>
+<surtitle />
+<title>Que retenir du 26e jour de guerre en Ukraine?</title>
+<pubDate>Tue, 22 Mar 2022 03:02:33 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/689310/guerre-en-ukraine-que-retenir-du-26e-jour-de-guerre-en-ukraine</link>
+<guid
+      >https://www.ledevoir.com/monde/689310/guerre-en-ukraine-que-retenir-du-26e-jour-de-guerre-en-ukraine</guid>
+<category>Monde</category>
+<description
+      >Interdiction de Facebook en Russie, décès d’un survivant de l’Holocauste et liens fragiles entre Moscou et Washington.</description>
+<author>aprovost@ledevoir.com (Anne-Marie Provost)</author>
+</item>
+<item>
+<surtitle>​Idées</surtitle>
+<title>L’eau, ressource vitale ou gain de capital?</title>
+<pubDate>Tue, 22 Mar 2022 03:02:25 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/idees/689301/idees-l-eau-ressource-vitale-ou-gain-de-capital</link>
+<guid
+      >https://www.ledevoir.com/opinion/idees/689301/idees-l-eau-ressource-vitale-ou-gain-de-capital</guid>
+<category>Idées</category>
+<description
+      >L’intérêt des spéculateurs pour l’eau vient surtout du fait qu’elle est de plus en plus rare.</description>
+<author />
+</item>
+<item>
+<surtitle>Lettres</surtitle>
+<title>L’éthique avant les principes malgré la pandémie</title>
+<pubDate>Tue, 22 Mar 2022 03:02:15 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/lettres/689298/l-ethique-avant-les-principes-malgre-la-pandemie</link>
+<guid
+      >https://www.ledevoir.com/opinion/lettres/689298/l-ethique-avant-les-principes-malgre-la-pandemie</guid>
+<category>Lettres</category>
+<description
+      >À lire parmi notre sélection quotidienne de lettres rédigées par nos lecteurs.</description>
+<author />
+</item>
+<item>
+<surtitle>Lettres</surtitle>
+<title>Pour une démonstration de force en Ukraine</title>
+<pubDate>Tue, 22 Mar 2022 03:02:09 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/lettres/689295/pour-une-demonstration-de-force-en-ukraine</link>
+<guid
+      >https://www.ledevoir.com/opinion/lettres/689295/pour-une-demonstration-de-force-en-ukraine</guid>
+<category>Lettres</category>
+<description
+      >À lire parmi notre sélection quotidienne de lettres rédigées par nos lecteurs.</description>
+<author />
+</item>
+<item>
+<surtitle>Éditorial - Guerre en Ukraine</surtitle>
+<title>Le parti des armes</title>
+<pubDate>Tue, 22 Mar 2022 03:02:01 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/editoriaux/689292/guerre-en-ukraine-le-parti-des-armes</link>
+<guid
+      >https://www.ledevoir.com/opinion/editoriaux/689292/guerre-en-ukraine-le-parti-des-armes</guid>
+<category>Éditoriaux</category>
+<description
+      >Les civils ukrainiens pris tragiquement dans les filets des rapports de force internationaux.</description>
+<author>gtaillefer@ledevoir.com (Guy Taillefer)</author>
+</item>
+<item>
+<surtitle>​Libre opinion</surtitle>
+<title>Pour un nouvel enseignement de l’économie</title>
+<pubDate>Tue, 22 Mar 2022 03:01:52 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/libre-opinion/689289/libre-opinion-pour-un-nouvel-enseignement-de-l-economie</link>
+<guid
+      >https://www.ledevoir.com/opinion/libre-opinion/689289/libre-opinion-pour-un-nouvel-enseignement-de-l-economie</guid>
+<category>Libre opinion</category>
+<description
+      >La discipline se doit d’introduire une vision plus large des phénomènes sociaux.</description>
+<author />
+</item>
+<item>
+<surtitle />
+<title>Pierre Poilievre veut privatiser CBC, mais pas RDI</title>
+<pubDate>Tue, 22 Mar 2022 03:01:36 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/culture/medias/689274/medias-pierre-poilievre-veut-privatiser-cbc-mais-pas-rdi</link>
+<guid
+      >https://www.ledevoir.com/culture/medias/689274/medias-pierre-poilievre-veut-privatiser-cbc-mais-pas-rdi</guid>
+<category>Médias</category>
+<description
+      >L’aspirant à la chefferie conservatrice fait une distinction nette entre les marchés francophone et anglophone.</description>
+<author>webmestre@ledevoir.com (Étienne Paré)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Des élus doutent de l’engagement envers le français de Michael Rousseau</title>
+<pubDate>Tue, 22 Mar 2022 03:01:29 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/689268/des-elus-doutent-de-l-engagement-envers-le-francais-de-michael-rousseau</link>
+<guid
+      >https://www.ledevoir.com/societe/689268/des-elus-doutent-de-l-engagement-envers-le-francais-de-michael-rousseau</guid>
+<category>Société</category>
+<description
+      >Le grand patron d’Air Canada n’a répondu qu’en anglais aux questions lors d’un comité parlementaire.</description>
+<author>bproulx@ledevoir.com (Boris Proulx)</author>
+</item>
+<item>
+<surtitle>Des Idées en revues</surtitle>
+<title>Grève étudiante et lutte populaire</title>
+<pubDate>Tue, 22 Mar 2022 03:01:22 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/idees/689259/greve-etudiante-et-lutte-populaire</link>
+<guid
+      >https://www.ledevoir.com/opinion/idees/689259/greve-etudiante-et-lutte-populaire</guid>
+<category>Idées</category>
+<description
+      >Le legs le plus fécond de la grève de 2012 est celui de la démocratie.</description>
+<author />
+</item>
+<item>
+<surtitle>Idées</surtitle>
+<title>Le poutinisme, un régime bonapartiste</title>
+<pubDate>Tue, 22 Mar 2022 03:01:12 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/idees/689256/guerre-en-ukraine-le-poutinisme-un-regime-bonapartiste</link>
+<guid
+      >https://www.ledevoir.com/opinion/idees/689256/guerre-en-ukraine-le-poutinisme-un-regime-bonapartiste</guid>
+<category>Idées</category>
+<description
+      >Une grande partie de la population est nostalgique de la période soviétique.</description>
+<author />
+</item>
+<item>
+<surtitle>​Chronique</surtitle>
+<title>La guerre et ses hypertrucages</title>
+<pubDate>Tue, 22 Mar 2022 03:01:02 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/opinion/chroniques/689253/chronique-la-guerre-et-ses-hypertrucages</link>
+<guid
+      >https://www.ledevoir.com/opinion/chroniques/689253/chronique-la-guerre-et-ses-hypertrucages</guid>
+<category>Chroniques</category>
+<description
+      >Comment protéger les délibérations démocratiques lorsque les technologies servent à diffuser des faussetés?</description>
+<author>redaction@ledevoir.com (Pierre Trudel)</author>
+</item>
+<item>
+<surtitle />
+<title>Un déficit structurel moins élevé que prévu, dit Girard</title>
+<pubDate>Tue, 22 Mar 2022 03:00:45 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/politique/quebec/689142/un-deficit-structurel-moins-eleve-que-prevu-dit-girard</link>
+<guid
+      >https://www.ledevoir.com/politique/quebec/689142/un-deficit-structurel-moins-eleve-que-prevu-dit-girard</guid>
+<category>Québec</category>
+<description
+      >Le ministre des Finances, qui présente son budget mardi, n’exclut pas un retour plus rapide à l’équilibre budgétaire.</description>
+<author>webmestre@ledevoir.com (Alexandre Robillard)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Le BIG recommande d’alerter l’UPAC dans le dossier des centres de tri de Lachine et Saint-Michel</title>
+<pubDate>Tue, 22 Mar 2022 03:00:29 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/politique/montreal/689127/politique-le-big-recommande-d-alerter-l-upac-dans-le-dossier-des-centres-de-tri-de-lachine-et-saint-michel</link>
+<guid
+      >https://www.ledevoir.com/politique/montreal/689127/politique-le-big-recommande-d-alerter-l-upac-dans-le-dossier-des-centres-de-tri-de-lachine-et-saint-michel</guid>
+<category>Montréal</category>
+<description
+      >Le Bureau de l’inspecteur général demande que le contrat entre la Ville et Ricova soit résilié «dès que possible».</description>
+<author>jcorriveau@ledevoir.com (Jeanne Corriveau)</author>
+</item>
+<item>
+<surtitle />
+<title>Le Printemps érable éprouvant de Christine St-Pierre</title>
+<pubDate>Tue, 22 Mar 2022 03:00:23 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/culture/689058/politique-le-printemps-erable-eprouvant-de-christine-st-pierre</link>
+<guid
+      >https://www.ledevoir.com/culture/689058/politique-le-printemps-erable-eprouvant-de-christine-st-pierre</guid>
+<category>Culture</category>
+<description
+      >La ministre de la Culture s’était retrouvée bien seule en 2012 face à un milieu artistique du côté des étudiants.</description>
+<author>webmestre@ledevoir.com (Étienne Paré)</author>
+</item>
+<item>
+<surtitle />
+<title>Sony acquiert l’éditeur montréalais de jeux vidéo Haven Studios</title>
+<pubDate>Tue, 22 Mar 2022 03:00:17 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/economie/689037/sony-acquiert-l-editeur-montrealais-de-jeux-video-haven-studios</link>
+<guid
+      >https://www.ledevoir.com/economie/689037/sony-acquiert-l-editeur-montrealais-de-jeux-video-haven-studios</guid>
+<category>Économie</category>
+<description
+      >Le rachat de l’entreprise est la première incursion de Sony Interactive Entertainment au Canada.</description>
+<author>amckenna@ledevoir.com (Alain McKenna)</author>
+</item>
+<item>
+<surtitle />
+<title>La guerre fait son entrée dans Kiev</title>
+<pubDate>Tue, 22 Mar 2022 03:00:11 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/688947/l-ukraine-rejette-l-ultimatum-russe-sur-marioupol-huit-morts-dans-un-bombardement-a-kiev</link>
+<guid
+      >https://www.ledevoir.com/monde/688947/l-ukraine-rejette-l-ultimatum-russe-sur-marioupol-huit-morts-dans-un-bombardement-a-kiev</guid>
+<category>Monde</category>
+<description
+      >La dévastation de Marioupol, de son côté, a été qualifiée lundi de «crime de guerre majeur» par l’Union européenne.</description>
+<author>aprovost@ledevoir.com (Anne-Marie Provost)</author>
+</item>
+<item>
+<surtitle />
+<title>Le Canadien de Montréal échange Lehkonen et Kulak</title>
+<pubDate>Tue, 22 Mar 2022 00:12:22 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/sports/689121/artturi-lehkonen-est-echange-a-l-avalanche-du-colorado</link>
+<guid
+      >https://www.ledevoir.com/sports/689121/artturi-lehkonen-est-echange-a-l-avalanche-du-colorado</guid>
+<category>Sports</category>
+<description
+      >La troupe de Kent Hughes obtient plusieurs espoirs et choix au repêchage.</description>
+<author>webmestre@ledevoir.com (Alexis Bélanger-Champagne)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Une audition qui s'annonce historique mais incisive pour Ketanji Brown Jackson</title>
+<pubDate>Tue, 22 Mar 2022 00:07:41 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/monde/etats-unis/689244/la-juge-noire-ketanji-brown-jackson-a-l-epreuve-du-senat</link>
+<guid
+      >https://www.ledevoir.com/monde/etats-unis/689244/la-juge-noire-ketanji-brown-jackson-a-l-epreuve-du-senat</guid>
+<category>États-Unis</category>
+<description
+      >La confirmation de la magistrate à la Cour suprême par le président Biden ne l’épargnera pas de questions «acérées».</description>
+<author>webmestre@ledevoir.com (Charlotte Plantive)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Le Canada augmentera la pression sur la Russie, assure Mélanie Joly</title>
+<pubDate>Tue, 22 Mar 2022 00:02:37 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/politique/canada/689088/le-canada-augmentera-encore-la-pression-sur-la-russie-assure-melanie-joly</link>
+<guid
+      >https://www.ledevoir.com/politique/canada/689088/le-canada-augmentera-encore-la-pression-sur-la-russie-assure-melanie-joly</guid>
+<category>Canada</category>
+<description
+      >«Les Ukrainiens doivent gagner. C’est une question existentielle», a déclaré la ministre des Affaires étrangères.</description>
+<author>webmestre@ledevoir.com (Pierre Saint-Arnaud)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >La moitié des billets pour les JO de Paris coûteront 50 euros ou moins</title>
+<pubDate>Mon, 21 Mar 2022 23:17:55 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/sports/689433/sports-la-moitie-des-billets-pour-les-jo-de-paris-couteront-50-euros-ou-moins</link>
+<guid
+      >https://www.ledevoir.com/sports/689433/sports-la-moitie-des-billets-pour-les-jo-de-paris-couteront-50-euros-ou-moins</guid>
+<category>Sports</category>
+<description
+      >Le comité d’organisation veut des Jeux «fédérateurs» «à des tarifs accessibles».</description>
+<author>webmestre@ledevoir.com (Deborah Claude)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >La championne olympique de marche Elena Lashmanova suspendue deux ans pour dopage</title>
+<pubDate>Mon, 21 Mar 2022 23:16:04 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/sports/689427/sports-la-championne-olympique-de-marche-elena-lashmanova-suspendue-deux-ans-pour-dopage</link>
+<guid
+      >https://www.ledevoir.com/sports/689427/sports-la-championne-olympique-de-marche-elena-lashmanova-suspendue-deux-ans-pour-dopage</guid>
+<category>Sports</category>
+<description
+      >La Russe avait remporté l’or au 20 km marche lors des Jeux de Londres, en 2012.</description>
+<author>webmestre@ledevoir.com (Agence France-Presse)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Les athlètes persistent et signent dans leurs critiques de Bobsleigh Canada Skeleton</title>
+<pubDate>Mon, 21 Mar 2022 23:10:43 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/sports/689364/les-athletes-persistent-et-signent-dans-leurs-critiques-de-bobsleigh-canada-skeleton</link>
+<guid
+      >https://www.ledevoir.com/sports/689364/les-athletes-persistent-et-signent-dans-leurs-critiques-de-bobsleigh-canada-skeleton</guid>
+<category>Sports</category>
+<description
+      >Ils critiquent la «solution de fortune» proposée par la fédération sportive.</description>
+<author>webmestre@ledevoir.com (Lori Ewing)</author>
+</item>
+<item>
+<surtitle />
+<title
+      >Record en vue pour un portrait de Marilyn par Warhol vendu aux enchères à New York</title>
+<pubDate>Mon, 21 Mar 2022 23:07:04 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/culture/arts-visuels/689358/record-en-vue-pour-un-portrait-de-marilyn-par-warhol-vendu-aux-encheres-a-new-york</link>
+<guid
+      >https://www.ledevoir.com/culture/arts-visuels/689358/record-en-vue-pour-un-portrait-de-marilyn-par-warhol-vendu-aux-encheres-a-new-york</guid>
+<category>Arts visuels</category>
+<description
+      >Estimé à 200 millions de dollars, «Shot Sage Blue Marilyn» serait l’oeuvre du XXe siècle la plus chère jamais vendue.</description>
+<author>webmestre@ledevoir.com (Peter Hutchison)</author>
+</item>
+<item>
+<surtitle />
+<title>Une comédie musicale sur Michael Jackson en tournée dès 2023</title>
+<pubDate>Mon, 21 Mar 2022 23:03:56 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/culture/689355/une-comedie-musicale-sur-michael-jackson-en-tournee-des-2023</link>
+<guid
+      >https://www.ledevoir.com/culture/689355/une-comedie-musicale-sur-michael-jackson-en-tournee-des-2023</guid>
+<category>Culture</category>
+<description
+      >L’oeuvre a été bien reçue pour ses prouesses en chanson et en danse, mais son évitement des scandales est critiqué.</description>
+<author>webmestre@ledevoir.com (Mark Kennedy)</author>
+</item>
+<item>
+<surtitle />
+<title>Québec investit 6,8 milliards dans les infrastructures</title>
+<pubDate>Mon, 21 Mar 2022 22:58:23 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/economie/689382/politique-quebecoise-quebec-investit-6-8-milliards-dans-les-infrastructures</link>
+<guid
+      >https://www.ledevoir.com/economie/689382/politique-quebecoise-quebec-investit-6-8-milliards-dans-les-infrastructures</guid>
+<category>Économie</category>
+<description
+      >Montréal obtiendra un peu plus de 1 milliard de l’enveloppe totale.</description>
+<author>webmestre@ledevoir.com (Stéphane Rolland)</author>
 </item>
 <item>
 <surtitle>​Pour votre info</surtitle>
 <title>Quoi surveiller aujourd’hui ?</title>
-<pubDate>Thu, 17 Mar 2022 22:10:21 -0400</pubDate>
-<link>https://www.ledevoir.com/societe/687879/pour-votre-info-quoi-surveiller-aujourd-hui</link>
-<guid>https://www.ledevoir.com/societe/687879/pour-votre-info-quoi-surveiller-aujourd-hui</guid>
+<pubDate>Mon, 21 Mar 2022 21:43:46 -0400</pubDate>
+<link
+      >https://www.ledevoir.com/societe/689370/pour-votre-info-quoi-surveiller-aujourd-hui</link>
+<guid
+      >https://www.ledevoir.com/societe/689370/pour-votre-info-quoi-surveiller-aujourd-hui</guid>
 <category>Société</category>
-<description>Ukraine : rencontre États-Unis–Chine   Au 23e jour de l’invasion russe en Ukraine, il faudra...</description>
+<description
+      >Invasion russe en Ukraine   Le conflit entre l’Ukraine et la Russie entre dans son 27e jour, et les...</description>
 <author>ppapineau@ledevoir.com (Philippe Papineau)</author>
-</item>
-<item>
-<surtitle/>
-<title>Des festivités de la Saint-Patrick sur un air de délivrance pandémique</title>
-<pubDate>Thu, 17 Mar 2022 21:50:26 -0400</pubDate>
-<link>https://www.ledevoir.com/monde/europe/687831/irlande-des-festivites-de-la-saint-patrick-sur-un-air-de-delivrance-pandemique</link>
-<guid>https://www.ledevoir.com/monde/europe/687831/irlande-des-festivites-de-la-saint-patrick-sur-un-air-de-delivrance-pandemique</guid>
-<category>Europe</category>
-<description>Le premier ministre Micheál Martin a quant à lui vu ses plans contrecarrés par un test de COVID-19 positif.</description>
-<author>non@courriel.com (Callum Paton)</author>
 </item>
 </channel>
 </rss>

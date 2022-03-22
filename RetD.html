@@ -1,0 +1,42 @@
+<?xml version="1.0"  ?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>Travail Noté # 4 - Question 4</title>
+
+<script language="JavaScript">
+function afficheTitres(doc) {
+  console.log("afficheTitres()")
+  titres = doc.getElementsByTagName("title");
+  console.log("Longueur de 'titres': ", titres.length)
+  elementol = document.createElement("ol");
+  var longueur = titres.length;
+  for (k = 0; k <&lt> longueur ; ++k) {
+    elementli = document.createElement("li");
+    elementli.appendChild(document.createTextNode(titres[k].firstChild.nodeValue));
+    elementol.appendChild(elementli);
+  }
+  body = document.getElementsByTagName("body").item(0);
+  body.appendChild(elementol);
+}
+
+function chargeDocument(f) {
+        console.log("chargeDocument() - Entrée")
+        var fileReader = new FileReader();
+        fileReader.onload = function(evt) {
+           var doc = new DOMParser().parseFromString(this.result, 'application/xml');
+           afficheTitres(doc);
+        }
+        fileReader.readAsText(f);
+        console.log("chargeDocument() - Sortie")
+
+    }
+
+</script>
+</head>
+<body>
+  <p>Récupére et affiche les nouvelles du Devoir: </p>
+<input type="file" onchange="readfile(this.files)" ></input>
+
+</body>
+</html>

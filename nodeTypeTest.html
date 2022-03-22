@@ -4,7 +4,7 @@
 
 <p id="demo"></p>
 
-<script>
+<script language="JavaScript">
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
    if (this.readyState == 4 && this.status == 200) {
@@ -19,7 +19,7 @@ function myFunction(xml) {
    xmlDoc = xml.responseXML
    txt = ""
    foundItem = false
-   x = xmlDoc.documentElement
+   x = xmlDoc.getElementsByTag("item")
    y = x.childNodes
 
    for(i = 0; i < y.length; i++) {
@@ -27,7 +27,8 @@ function myFunction(xml) {
          ")<br>";
       for(z = 0; z < y[i].childNodes.length; z++) {
          if (y[i].childNodes[z].nodeName == "item" && foundItem == false) {
-            foundItem = true
+            foundItem = true;
+            console.log(y[i].nodeName + ' = ' + y[i].firstChild.nodeValue);
          }
          txt += "z1 - " + z + " - nn: " + y[i].childNodes[z].nodeName +
          " (nt: " + y[i].childNodes[z].nodeType + " - " + foundItem + ")<br>";
