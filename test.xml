@@ -1,0 +1,37 @@
+<DOCTYPE html>
+    <html lang="en">
+    <head>
+       <meta charset=""UTF-8">
+       <title>Ajax by Ania Kubow</title>
+    </head>
+    <body>
+       <button onclick = showCountries()>Show Countries</button>
+       <div id="feed" style="font-size:150%; color:red;"></div>
+       
+       <script>
+             function showCountries() {
+                let xhr = new XMLHttpRequest();
+                xhr.open('GET', 'https://restcountries.com/v2/all', true)
+                xhr.onload = function() {
+                   if (xhr.status == 200) {
+                      console.log('success')
+                      let countries = JSON.parse(this.response)
+                      console.log(countries)
+                      countries.forEach(country => {
+                         const countryCardImage = document.createElement('img')
+                         const countryCard = document.createElement('div')
+                         countryCardImage.src = country.flag
+                         countryCardImage.height = 75
+                         countryCardImage.width = 175
+                         countryCard.innerHTML = country.name
+                         countryCard.appendChild(countryCardImage)
+                         document.getElementById("feed").appendChild(countryCard)
+                      })
+                   }        
+                } 
+                xhr.send()
+             }
+       </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        myFunction(this);
+    }
+};
+xhttp.open("GET", "books.xml", true);
+xhttp.send();
+
+// Check if the first node is an element node
+function get_firstchild(n) {
+    var x = n.firstChild;
+    while (x.nodeType != 1) {
+        x = x.nextSibling;
+    }
+    return x;
+}
+
+function myFunction(xml) {
+    var x, i, txt, xmlDoc, firstNode, xmlDoc;
+    xmlDoc = xml.responseXML;
+    x = xmlDoc.documentElement;
+    txt = "";
+    
+    firstNode = get_firstchild(x);
+    
+    for (i = 0; i < firstNode.childNodes.length; i++) { 
+        if (firstNode.childNodes[i].nodeType == 1) {
+            //Process only element nodes
+            txt += firstNode.childNodes[i].nodeName + " = " + 
+            firstNode.childNodes[i].childNodes[0].nodeValue + "<br>";
+        }
+    }
+    document.getElementById("demo").innerHTML = txt; 
+}
+</script>
+
+</body>
+</html>

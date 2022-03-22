@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<title>TN4 - Question # 4</title>
+
+<script language="JavaScript">
+/*  
+**  Cette fonction va chercher un document XML sur le serveur et appelle
+**  la fonction afficherTitres lorsque c'est fait!
+*/
+	function chargeDocument(URI) {
+		xmlhttp = new XMLHttpRequest();
+		xmlhttp.open("GET", URI, true);
+		xmlhttp.onreadystatechange = function() {
+			if (xmlhttp.readyState == 4) {
+				afficheTitres(xmlhttp.responseXML);
+			}
+		}
+	   xmlhttp.send(null);
+	}
+	
+	// Cette fonction est appelé lorsque le document XML est chargé
+	
+	function afficheTitres(doc) {
+		items = doc.getElementsByTagName("item");
+		elementol = document.createElement("ol");
+		var longueur = items.length;
+      	console.log(items.length)
+		for ( k = 0; k &lt; longueur ; ++k) {
+			console.log("Passe # " + k)
+			elementli = document.createElement("li");
+			console.log(items[k].firstChild.nodeValue)
+			elementli.appendChild(
+				document.createTextNode(
+				items[k].firstChild.nodeValue
+			  )
+			);
+			elementol.appendChild(elementli);
+		}
+		body = document.getElementsByTagName("body").item(0);
+		body.appendChild(elementol);
+	}
+</script>
+
+</head>
+<body>
+	<ul>
+		<li>
+			<a
+          href="javascript:chargeDocument('ledevoir.xml')"
+          style="font-size:125%; color:red;"
+        >
+          Récupère et affiche les nouvelles du Devoir.
+			</a>
+		</li>
+	</ul>
+</body>
+</html>
