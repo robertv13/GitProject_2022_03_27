@@ -22,6 +22,7 @@ public class Inventaire {
    public static void main(String[] args) throws Exception {
       
       /* Traitement du fichier XML - args[1] */
+      System.out.println("\n--------------------------------------");
       DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
       factory.setNamespaceAware(true);
       DocumentBuilder parser = factory.newDocumentBuilder();
@@ -41,6 +42,7 @@ public class Inventaire {
       for (int i = 0; i < arrayTXT.size(); ++i) {
          String ligne = arrayTXT.get(i);
          List<String> result = Arrays.asList(ligne.split("\\s*,\\s*"));
+         System.out.println("\n" + i + " - Le produit du fichier 'achats.txt' est '" + result.get(2) + "'");
 
          /* Trouve l'enregistrement d'inventaire.XML pour le produit d'achats */
          NodeList nl = racine.getChildNodes();
@@ -54,9 +56,18 @@ public class Inventaire {
                String codeProduitNode = e.getAttribute("code");
                String codeProduitAchats = result.get(2);
                if (Objects.equals(codeProduitNode, codeProduitAchats) == true) {
+                  System.out.println("    Pour k = " + k + ", le code de produit est '" + codeProduitNode + "'");
                   int qteInventaire = Integer.parseInt(e.getAttribute("quantite"));
+                  System.out.println("       L'inventaire du produit '" + e.getAttribute("code") + "' est de "
+                        + e.getAttribute("quantite") + " Réduction de " + result.get(3));
                   qteInventaire = qteInventaire - Integer.parseInt(result.get(3));
+                  System.out.println(
+                        "          Alors on soustrait " + result.get(3) + " de " + e.getAttribute("quantite") + " = "
+                              + qteInventaire);
+                  e.setAttribute("toto", "999");            
                   e.setAttribute("quantite", Integer.toString(qteInventaire));
+                  System.out.println("          Quantité APRÈS le calcul (RAM): " + " = " + qteInventaire);
+                  System.out.println("          Quantité APRÈS la calcul (node): " + " = " + e.getAttribute("quantite"));
                   nl.item(k).getParentNode().replaceChild(nl.item(k), e);
                }
             }
