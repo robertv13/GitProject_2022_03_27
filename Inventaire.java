@@ -19,16 +19,17 @@ public class Inventaire {
    /* args[0]=Fichier TXT (achats.txt), args[1]=Fichier XML (inventaire.xml) */
    public static void main(String[] args) throws Exception {
       /* Traitement du fichier XML - args[1] */
+      System.out.println("\n--------------------------------------");
       DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
       factory.setNamespaceAware(true);
       DocumentBuilder parser = factory.newDocumentBuilder();
-      Document docXML = parser.parse(args[1]);
+      Document docXML = parser.parse("inventaire.xml");
       Element racine = docXML.getDocumentElement();
-      NodeList nl = racine.getChildNodes();
+      docXML.getDocumentElement().normalize();
 
       /* Traitement du fichier TXT - args[0] */
       List<String> arrayTXT = new ArrayList<String>();
-      FileReader fr = new FileReader(args[0]);
+      FileReader fr = new FileReader("achats.txt");
       BufferedReader br = new BufferedReader(fr);
       for (String line = br.readLine(); line != null; line = br.readLine()) {
          arrayTXT.add(line);
@@ -38,38 +39,45 @@ public class Inventaire {
       for (int i = 0; i < arrayTXT.size(); ++i) {
          String ligne = arrayTXT.get(i);
          List<String> result = Arrays.asList(ligne.split("\\s*,\\s*"));
-         System.out.println("\n" + i + " - Code du produit 'achat' est '" + result.get(2) + "'");
+         System.out.println("\n" + i + " - Le produit du fichier 'achat.txt' est '" + result.get(2) + "'");
 
          /* Trouve l'enregistrement d'inventaire.XML pour le produit d'achats */
+         NodeList nl = racine.getChildNodes();
          for (int k = 0; k < nl.getLength(); ++k) {
-            System.out.println("      k = " + k + " ---> NodeType: " + nl.item(k).getNodeType() + " ==? " + Node.ELEMENT_NODE);
+            /* Validate to only handle Element Node */
             if (nl.item(k).getNodeType() == Node.ELEMENT_NODE) {
-//               Node e = nl.item(k);
                Element e = (Element) nl.item(k);
-               System.out.println("      '" + e.getAttributes().getNamedItem("code").getNodeValue() + "' ==? '" + result.get(2) + "'");
-               if (e.getAttributes().getNamedItem("code").getNodeValue() == result.get(2)) {
-                  System.out.println("Code: " + e.getAttributes().getNamedItem("code").getNodeValue());
-                  System.out.println("Qté inv.: " + e.getAttributes().getNamedItem("quantite").getNodeValue());
-                  int qteInventaire = Integer.parseInt(e.getAttributes().getNamedItem("quantite").getNodeValue());
-                  qteInventaire -= Integer.parseInt(result.get(3));
-                  System.out.println(result.get(2) + ": " + e.getAttributes().getNamedItem("quantite").getNodeValue() +
-                        " - " + result.get(3) + " = " + qteInventaire);
-                  racine.replaceChild(e, nl.item(k));
-                  System.out.println("- " + result.get(3) + " = " + qteInventaire);
-               }
+               /* Is this product match the product from 'achats.txt' ? */
+               String codeProduitNode = e.getAttribute("code");
+               String codeProduitAchats = result.get(2);
+               System.out.println("    k = " + k + " et le code de produit = '" + codeProduitNode + "'");
+//               if (codeProduitNode == codeProduitAchats) {
+                  int qteInventaire = Integer.parseInt(e.getAttribute("quantite"));
+                  System.out.println("    L'inventaire du produit '" + e.getAttribute("code") + "' est de "
+                        + e.getAttribute("quantite") + " Réduction de " + result.get(3));
+                  qteInventaire = qteInventaire - Integer.parseInt(result.get(3));
+                  System.out.println(
+                        "       Alors on soustrait " + result.get(3) + " de " + e.getAttribute("quantite") + " = "
+                              + qteInventaire);
+                  e.setAttribute("toto", "999");            
+                  e.setAttribute("quantite", Integer.toString(qteInventaire));
+                  System.out.println("       Quantité APRÈS le calcul (RAM): " + " = " + qteInventaire);
+                  System.out.println("       Quantité APRÈS la calcul (node): " + " = " + e.getAttribute("quantite"));
+                  nl.item(k).getParentNode().replaceChild(nl.item(k), e);
+//               }
             }
          }
-      }
 
-      br.close();
-      fr.close();
-     
-      TransformerFactory tfact = TransformerFactory.newInstance();
-      Transformer transformer = tfact.newTransformer();
-      transformer.setOutputProperty("encoding", "UTF-8");
-      DOMSource source = new DOMSource(docXML);
-      FileWriter fw = new FileWriter(args[1]);
-      StreamResult result = new StreamResult(fw);    
-      transformer.transform(source, result);
+         br.close();
+         fr.close();
+
+         TransformerFactory tfact = TransformerFactory.newInstance();
+         Transformer transformer = tfact.newTransformer();
+         transformer.setOutputProperty("encoding", "UTF-8");
+         DOMSource source = new DOMSource(docXML);
+         FileWriter fw = new FileWriter("inventaire.xml");
+         StreamResult result1 = new StreamResult(fw);
+         transformer.transform(source, result1);
+      }
    }
 }
