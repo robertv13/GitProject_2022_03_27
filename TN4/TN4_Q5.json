@@ -1,0 +1,8 @@
+{
+    "nom": "Pierrot Rouge",
+    "cote": "3 étoiles",
+    "parent": [
+        "Pierrette Rouge",
+        "Pierre Rouge"
+    ] 
+}

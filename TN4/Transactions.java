@@ -1,10 +1,10 @@
 /**
 *** INF 6450 -  Travail noté 4 - Robert M. Vigneault,  fait avec JDK java 14.0.2
 **/
+package TN4;
 
 import org.w3c.dom.*;
 import javax.xml.parsers.*;
-System.setProperty("file.encoding","ISO-8859-1");
 
 public class Transactions {
   public static void main(String[] args) throws Exception {
