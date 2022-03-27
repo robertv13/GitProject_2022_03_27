@@ -1,0 +1,62 @@
+
+XML - Prologue ou Déclaration (optionnel, mais obligatoirement à la ligne 1, si utilisée
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="?????.xsl" ?>
+
+
+XSL - Prologue
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+...
+</xsl:stylesheet>
+
+
+XML avec ontenu RDF
+---
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+</rdf:RDF>
+
+
+Commande
+--------
+
+C:\>cd C:\Users\Robert M. Vigneault\OneDrive\_P E R S O N N E L\7_FORMATION\TELUQ\INF 6450\src\Semaine_12\src
+
+Pour compiler: 
+
+C:>javac Bottin.java
+
+Pour exécuter:
+
+C:\Users\Robert M. Vigneault\OneDrive\_P E R S O N N E L\...\Semaine_12\src>java Bottin cherche "Robert M. Vigneault"
+
+
+VISUAL STUDIO CODE
+------------------
+
+*.html - ! + TAB to get a HTML template with an empty window
+
+
+GitHub
+------
+
+User: robertv13
+
+Token : vscode://vscode.github-authentication/did-authenticate?windowid=1&code=7a796a54ac94e4bf1728&state=1910701d-7605-4f93-adaa-a6609188fec8
+
+
+Accents (character-set)
+-------
+
+C:> chcp 65001 (pour UTF-8)
+
+
+
+
+
