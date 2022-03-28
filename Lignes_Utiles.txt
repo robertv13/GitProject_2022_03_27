@@ -15,7 +15,7 @@ XSL - Prologue
 </xsl:stylesheet>
 
 
-XML avec ontenu RDF
+XML avec contenu RDF
 ---
 
 <?xml version="1.0" encoding="ISO-8859-1"?>
