@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-
-<rdf:Description rdf:about="https://www.uqam.ca">
-
-
-</rdf:Description>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:md="https://www.uquebec.ca/"
+>
+   <rdf:Description rdf:about="https://www.uqam.ca">
+      <md:nom>UQÀM</md:nom> 
+   </rdf:Description>
 </rdf:RDF>

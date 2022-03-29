@@ -1,5 +1,6 @@
 /**
 *** INF 6450 -  Travail noté 5 - Robert M. Vigneault,  fait avec JDK java 14.0.2
+*** TN5_Q2.java
 **/
 
 package TN5;
@@ -11,34 +12,37 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class TN5_Q2 {
-    public static void main(String[] args) {
-        System.out.println(readRSSFeed("http://rss.cnn.com/rss/edition.rss"));
-    }
+   public static void main(String[] args) {
+      /** url Address for CNN rss channel --------------------------------------*/
+      String urlAddress = "http://rss.cnn.com/rss/edition.rss";
 
-    public static String readRSSFeed(String urlAddress){
-        try{
-            URL rssUrl = new URL (urlAddress);
-            BufferedReader in = new BufferedReader(new InputStreamReader(rssUrl.openStream()));
-            String sourceCode = "";
-            String line;
-            while ((line = in.readLine()) != null) {
-                int titleEndIndex = 0;
-                int titleStartIndex = 0;
-                while (titleStartIndex >= 0) {
-                    titleStartIndex = line.indexOf("<title>", titleEndIndex);
-                    if (titleStartIndex >= 0) {
-                        titleEndIndex = line.indexOf("</title>", titleStartIndex);
-                        System.out.println(line.substring(titleStartIndex + "<title>".length() + 9, titleEndIndex - 3) + "\n");
-                    }
-                }
+      /** Handle malformed URL and othe non specific errors --------------------*/
+      try {
+         URL rssURL = new URL (urlAddress);
+         BufferedReader read = 
+               new BufferedReader(new InputStreamReader(rssURL.openStream()));
+         String inLine;
+         /** Loop within all records from 'read' -------------------------------*/
+         while ((inLine = read.readLine()) != null) {
+            int clTagPos = 0;
+            int opTagPos = 0;
+            while (opTagPos >= 0) {
+               opTagPos = inLine.indexOf("<title>", clTagPos);
+               if (opTagPos >= 0) {
+                  clTagPos = inLine.indexOf("</title>", opTagPos);
+                  String title = inLine.substring(opTagPos +
+                        "<title>".length(), clTagPos);
+                  /* Get rid of unwanted tags and info (.replace) --------------*/   
+                  System.out.println(title.replace("<![CDATA[", "")
+                                          .replace("]]>","") + "\n");
+               }
             }
-            in.close();
-            return sourceCode;
-        } catch (MalformedURLException ue){
-            System.out.println("Malformed URL");
-        } catch (IOException ioe){
-            System.out.println("Something went wrong reading the contents");
-        }
-        return null;
-    }
+         }
+         read.close();
+      } catch (MalformedURLException ue){
+         System.out.println("Malformed URL");
+      } catch (IOException ioe){
+         System.out.println("Something went wrong reading the contents");
+      }
+   }
 }
